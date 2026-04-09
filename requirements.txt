@@ -1,0 +1,3 @@
+pdfplumber
+clingo
+pandas

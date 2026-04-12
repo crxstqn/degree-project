@@ -1,6 +1,7 @@
 # Copyright (C) 2026 Cristian Liporace
 # Licensed under the GNU General Public License v3.0
 # See LICENSE file for details.
+from sys import flags
 
 import pdfplumber
 import re
@@ -25,40 +26,51 @@ def pdf_to_string(path_pdf):
 
 
 def extract_articles(text, document):
-    regex = r'^(?=(?:TITOLO\s+[IVXLCDM]+|Art\.\s*\d+))'
+    regex = r'^(?=(?:TITOLO|Titolo\s+[IVXLCDM]+|Art\.|Articolo\s*\d+))'
     blocks = re.split(regex, text, flags=re.MULTILINE)
 
     articles = []
     current_title = ""
     for block in blocks:
         block = block.strip()
-        if block.startswith('TITOLO'):
+        if block.lower().startswith('titolo'):
             current_title = block.split('\n', 1)[0]
             continue
-        if not block.startswith('Art'):
+        if not block.startswith('Art') and not block.startswith('Articolo'):
             continue
 
         lines = block.split('\n', 1)
         header = lines[0].strip()
         content = lines[1].strip() if len(lines) > 1 else ""
 
-        match_num = re.search(r'(Art\.)\s*(\d+(\.\d+)?(-[a-z]+)?)', header)
+        match_num = re.search(r'(Art\.|Articolo)\s*(\d+(\.\d+)?(-[a-z]+)?)', header)
         number = match_num.group(2) if match_num else ""
 
-        articles.append({
-            "document": document,
-            "title": current_title,
-            "number": number,
-            "header": header,
-            "text": content
-        })
+        paragraphs = re.split(r'^(?=\d+\.\s+)', content, flags=re.MULTILINE)
+        for paragraph in paragraphs:
+            if len(paragraph)>0:
+                match_para = re.search(r'^(\d+)\.\s+', paragraph.strip())
+                num_paragraph = match_para.group(1) if match_para else ""
+                text_paragraph = re.sub(r'^(\d+)\.\s+', r'', paragraph.strip())
+                text_paragraph = re.sub(r'\nCAPO\s+[IVXLCDM]+\s[-–]*\s+[\w+|\s|,|\\n]+', r'', text_paragraph)
+
+                articles.append({
+                    "document": document,
+                    "title": current_title,
+                    "number": number,
+                    "header": header,
+                    "paragraph": num_paragraph,
+                    "text": text_paragraph
+                })
 
     return articles
 
 def remove_duplicates(articles):
     seen = {}
     for a in articles:
-        key = (a["document"], a["number"])
+        if a["paragraph"] == "":
+            continue
+        key = (a["document"], a["number"], a["paragraph"])
         if key not in seen:
             seen[key] = a
         else:
@@ -68,8 +80,8 @@ def remove_duplicates(articles):
 
 def process_documents():
     paths = {
-        "statuto":     ROOT / "data" / "raw" / "statuto.pdf",
-        "regolamento": ROOT / "data" / "raw" / "regolamento.pdf"
+        "statuto":     ROOT / "data" / "raw" / "statuto-unical.pdf",
+        "regolamento": ROOT / "data" / "raw" / "regolamento-unical.pdf"
     }
 
     output_dir = ROOT / "data" / "processed"
@@ -81,7 +93,7 @@ def process_documents():
         all_articles.extend(articles)
 
     all_articles = remove_duplicates(all_articles)
-    output_json = output_dir / "processed_articles.json"
+    output_json = output_dir / "processed_articles_unical.json"
     with open(output_json, "w", encoding="utf-8") as f:
        json.dump(all_articles, f, ensure_ascii=False, indent=2)
 

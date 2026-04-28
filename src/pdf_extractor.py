@@ -25,15 +25,19 @@ def pdf_to_string(path_pdf):
 
 
 def extract_articles(text, document):
-    regex = r'^(?=(?:TITOLO|Titolo\s+[IVXLCDM]+|Art\.|Articolo\s*\d+))'
+    regex = r'^(?=(?:TITOLO|Titolo\s+[IVXLCDM]+|Art\.|Articolo\s*\d+|CAPO|Capo\s+[IVXLCDM]))'
     blocks = re.split(regex, text, flags=re.MULTILINE)
 
     articles = []
     current_title = ""
+    current_chapter = ""
     for block in blocks:
         block = block.strip()
         if block.lower().startswith('titolo'):
             current_title = block.split('\n', 1)[0]
+            continue
+        if block.lower().startswith('capo'):
+            current_chapter = block.split('\n', 1)[0]
             continue
         if not block.startswith('Art') and not block.startswith('Articolo'):
             continue
@@ -56,6 +60,8 @@ def extract_articles(text, document):
                 articles.append({
                     "document": document,
                     "title": current_title,
+                    "node_id": document + ":" + number + ":" + num_paragraph,
+                    "chapter": current_chapter,
                     "number": number,
                     "header": header,
                     "paragraph": num_paragraph,

@@ -24,6 +24,24 @@ def pdf_to_string(path_pdf):
     return full_text
 
 
+def split_header_content(block):
+    lines = [line.strip() for line in block.splitlines() if line.strip()]
+
+    content_start = None
+    for i, line in enumerate(lines):
+        if re.match(r'^\d+\.\s+', line):
+            content_start = i
+            break
+
+    if content_start is None:
+        return "-".join(lines), ""
+
+    header = "-".join(lines[:content_start])
+    content = "\n".join(lines[content_start:])
+
+    return header, content
+
+
 def extract_articles(text, document):
     regex = r'^(?=(?:TITOLO|Titolo\s+[IVXLCDM]+|Art\.|Articolo\s*\d+|CAPO|Capo\s+[IVXLCDM]))'
     blocks = re.split(regex, text, flags=re.MULTILINE)
@@ -34,17 +52,16 @@ def extract_articles(text, document):
     for block in blocks:
         block = block.strip()
         if block.lower().startswith('titolo'):
-            current_title = block.split('\n', 1)[0]
+            current_title, content = split_header_content(block)
+            current_chapter = ""
             continue
         if block.lower().startswith('capo'):
-            current_chapter = block.split('\n', 1)[0]
+            current_chapter, content = split_header_content(block)
             continue
         if not block.startswith('Art') and not block.startswith('Articolo'):
             continue
 
-        lines = block.split('\n', 1)
-        header = lines[0].strip()
-        content = lines[1].strip() if len(lines) > 1 else ""
+        header, content = split_header_content(block)
 
         match_num = re.search(r'(Art\.|Articolo)\s*(\d+(\.\d+)?(-[a-z]+)?)', header)
         number = match_num.group(2) if match_num else ""
@@ -59,8 +76,8 @@ def extract_articles(text, document):
 
                 articles.append({
                     "document": document,
-                    "title": current_title,
                     "node_id": document + ":" + number + ":" + num_paragraph,
+                    "title": current_title,
                     "chapter": current_chapter,
                     "number": number,
                     "header": header,

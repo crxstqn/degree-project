@@ -1,0 +1,3775 @@
+[
+  {
+    "source_article_id": "regolamento:10",
+    "source_document": "regolamento",
+    "source_number": "10",
+    "source_header": "Art. 10 - Elezioni del Rettore",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – IL RETTORE",
+    "target_article_id": "statuto:8.1",
+    "target_document": "statuto",
+    "target_number": "8.1",
+    "target_header": "Art. 8.1",
+    "target_title": "TITOLO VIII - NORME TRANSITORIE",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 8.1, comma 4, dello statuto",
+        "article_number": "8.1",
+        "paragraph_number": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "rettore"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:11",
+    "source_document": "regolamento",
+    "source_number": "11",
+    "source_header": "Art. 11 - Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:2.4",
+    "target_document": "statuto",
+    "target_number": "2.4",
+    "target_header": "Art. 2.4 – Il Senato Accademico",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.4, comma 1, dello statuto",
+        "article_number": "2.4",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:12",
+    "source_document": "regolamento",
+    "source_number": "12",
+    "source_header": "Art. 12 – Mozione di sfiducia",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:2.2",
+    "target_document": "statuto",
+    "target_number": "2.2",
+    "target_header": "Art. 2.2 – Il Rettore",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.2, comma 1, lettera r), dello statuto",
+        "article_number": "2.2",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:12",
+    "source_document": "regolamento",
+    "source_number": "12",
+    "source_header": "Art. 12 – Mozione di sfiducia",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:2.4",
+    "target_document": "statuto",
+    "target_number": "2.4",
+    "target_header": "Art. 2.4 – Il Senato Accademico",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.4,\ncomma 1, lettera f), dello statuto",
+        "article_number": "2.4",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Art. 13 – Composizione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:2.4",
+    "target_document": "statuto",
+    "target_number": "2.4",
+    "target_header": "Art. 2.4 – Il Senato Accademico",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.4 dello statuto",
+        "article_number": "2.4",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Art. 13 – Composizione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:7.2",
+    "target_document": "statuto",
+    "target_number": "7.2",
+    "target_header": "Art. 7.2 – Norme per le designazioni elettive dei membri del Senato Accademico",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 7.2 dello statuto",
+        "article_number": "7.2",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": [
+          "composizione",
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.222
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:15",
+    "source_document": "regolamento",
+    "source_number": "15",
+    "source_header": "Art. 15 - Norme di funzionamento",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:7.1",
+    "target_document": "statuto",
+    "target_number": "7.1",
+    "target_header": "Art. 7.1 - Norme generali per le designazioni elettive",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 7.1, comma 5,\ndello statuto",
+        "article_number": "7.1",
+        "paragraph_number": "5"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": [
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:16",
+    "source_document": "regolamento",
+    "source_number": "16",
+    "source_header": "Art. 16 - Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – CONSIGLIO DI AMMINISTRAZIONE",
+    "target_article_id": "statuto:2.5",
+    "target_document": "statuto",
+    "target_number": "2.5",
+    "target_header": "Art. 2.5 – Il Consiglio di Amministrazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.5, comma 1, dello statuto",
+        "article_number": "2.5",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:17",
+    "source_document": "regolamento",
+    "source_number": "17",
+    "source_header": "Art. 17 - Composizione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – CONSIGLIO DI AMMINISTRAZIONE",
+    "target_article_id": "statuto:2.5",
+    "target_document": "statuto",
+    "target_number": "2.5",
+    "target_header": "Art. 2.5 – Il Consiglio di Amministrazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.5 dello statuto",
+        "article_number": "2.5",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:18",
+    "source_document": "regolamento",
+    "source_number": "18",
+    "source_header": "Art. 18 - Modalità di elezione e modalità di designazione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – CONSIGLIO DI AMMINISTRAZIONE",
+    "target_article_id": "statuto:2.5",
+    "target_document": "statuto",
+    "target_number": "2.5",
+    "target_header": "Art. 2.5 – Il Consiglio di Amministrazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.5, comma 3, lettere c) e d), dello statuto",
+        "article_number": "2.5",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione",
+          "nomina"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.143,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:18",
+    "source_document": "regolamento",
+    "source_number": "18",
+    "source_header": "Art. 18 - Modalità di elezione e modalità di designazione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – CONSIGLIO DI AMMINISTRAZIONE",
+    "target_article_id": "statuto:7.3",
+    "target_document": "statuto",
+    "target_number": "7.3",
+    "target_header": "Art.7.3 – Elezione delle rappresentanze studentesche",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 7.3 dello statuto",
+        "article_number": "7.3",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione",
+          "nomina"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:19",
+    "source_document": "regolamento",
+    "source_number": "19",
+    "source_header": "Art. 19 - Norme di funzionamento",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – CONSIGLIO DI AMMINISTRAZIONE",
+    "target_article_id": "statuto:2.5",
+    "target_document": "statuto",
+    "target_number": "2.5",
+    "target_header": "Art. 2.5 – Il Consiglio di Amministrazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.5, comma 1, dello statuto",
+        "article_number": "2.5",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.25,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:22",
+    "source_document": "regolamento",
+    "source_number": "22",
+    "source_header": "Art. 22 - Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VI – NUCLEO DI VALUTAZIONE",
+    "target_article_id": "statuto:2.8",
+    "target_document": "statuto",
+    "target_number": "2.8",
+    "target_header": "Art. 2.8 – Il Nucleo di Valutazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art.\n2.8 dello statuto",
+        "article_number": "2.8",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "nucleo_valutazione"
+        ],
+        "regulation_subjects": [
+          "nucleo_valutazione"
+        ],
+        "statute_subjects": [
+          "nucleo_valutazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:23",
+    "source_document": "regolamento",
+    "source_number": "23",
+    "source_header": "Art. 23 - Composizione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VI – NUCLEO DI VALUTAZIONE",
+    "target_article_id": "statuto:2.8",
+    "target_document": "statuto",
+    "target_number": "2.8",
+    "target_header": "Art. 2.8 – Il Nucleo di Valutazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.8, comma 2, dello statuto",
+        "article_number": "2.8",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "nucleo_valutazione"
+        ],
+        "regulation_subjects": [
+          "nucleo_valutazione"
+        ],
+        "statute_subjects": [
+          "nucleo_valutazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:24",
+    "source_document": "regolamento",
+    "source_number": "24",
+    "source_header": "Art. 24 - Norme di funzionamento",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VI – NUCLEO DI VALUTAZIONE",
+    "target_article_id": "statuto:2.8",
+    "target_document": "statuto",
+    "target_number": "2.8",
+    "target_header": "Art. 2.8 – Il Nucleo di Valutazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.8, comma 8, dello statuto",
+        "article_number": "2.8",
+        "paragraph_number": "8"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "nucleo_valutazione"
+        ],
+        "regulation_subjects": [
+          "nucleo_valutazione"
+        ],
+        "statute_subjects": [
+          "nucleo_valutazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.25,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:25",
+    "source_document": "regolamento",
+    "source_number": "25",
+    "source_header": "Art. 25 - Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VII – DIRETTORE GENERALE",
+    "target_article_id": "statuto:2.9",
+    "target_document": "statuto",
+    "target_number": "2.9",
+    "target_header": "Art. 2.9 – Il Direttore Generale",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.9 dello statuto",
+        "article_number": "2.9",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "direttore_generale"
+        ],
+        "regulation_subjects": [
+          "direttore_generale"
+        ],
+        "statute_subjects": [
+          "direttore_generale"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:28",
+    "source_document": "regolamento",
+    "source_number": "28",
+    "source_header": "Art. 28 - Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VIII – CONSIGLIO DEGLI STUDENTI",
+    "target_article_id": "statuto:2.10",
+    "target_document": "statuto",
+    "target_number": "2.10",
+    "target_header": "Art. 2.10 – Il Consiglio degli Studenti",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.10 dello statuto",
+        "article_number": "2.10",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_studenti"
+        ],
+        "regulation_subjects": [
+          "consiglio_studenti"
+        ],
+        "statute_subjects": [
+          "consiglio_studenti"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:29",
+    "source_document": "regolamento",
+    "source_number": "29",
+    "source_header": "Art. 29 - Composizione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VIII – CONSIGLIO DEGLI STUDENTI",
+    "target_article_id": "statuto:2.10",
+    "target_document": "statuto",
+    "target_number": "2.10",
+    "target_header": "Art. 2.10 – Il Consiglio degli Studenti",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.10, comma 6, dello statuto",
+        "article_number": "2.10",
+        "paragraph_number": "6"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_studenti"
+        ],
+        "regulation_subjects": [
+          "consiglio_studenti"
+        ],
+        "statute_subjects": [
+          "consiglio_studenti"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:3",
+    "source_document": "regolamento",
+    "source_number": "3",
+    "source_header": "Art. 3 - Trasparenza, economicità ed efficienza",
+    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
+    "source_chapter": "",
+    "target_article_id": "statuto:1.2",
+    "target_document": "statuto",
+    "target_number": "1.2",
+    "target_header": "Art. 1.2 – Principi generali",
+    "target_title": "TITOLO I – PRINCIPI GENERALI",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 1.2, comma 5,\ndello statuto",
+        "article_number": "1.2",
+        "paragraph_number": "5"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.333,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:31",
+    "source_document": "regolamento",
+    "source_number": "31",
+    "source_header": "Art. 31 – Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IX – COLLEGIO DI DISCIPLINA",
+    "target_article_id": "statuto:2.11",
+    "target_document": "statuto",
+    "target_number": "2.11",
+    "target_header": "Art. 2.11 – Il Collegio di Disciplina",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.11, comma 1, dello statuto",
+        "article_number": "2.11",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "collegio_disciplina"
+        ],
+        "regulation_subjects": [
+          "collegio_disciplina"
+        ],
+        "statute_subjects": [
+          "collegio_disciplina"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:33",
+    "source_document": "regolamento",
+    "source_number": "33",
+    "source_header": "Art. 33 - Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO X – COMITATO UNICO DI GARANZIA PER LE PARI OPPORTUNITÀ, LA VALORIZZAZIONE DEL - BENESSERE DI CHI LAVORA E CONTRO LE DISCRIMINAZIONI",
+    "target_article_id": "statuto:2.12",
+    "target_document": "statuto",
+    "target_number": "2.12",
+    "target_header": "Art. 2.12 – Il Comitato Unico di Garanzia",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.12 dello statuto",
+        "article_number": "2.12",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "comitato_unico_garanzia"
+        ],
+        "regulation_subjects": [
+          "comitato_unico_garanzia"
+        ],
+        "statute_subjects": [
+          "comitato_unico_garanzia"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.222
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:36",
+    "source_document": "regolamento",
+    "source_number": "36",
+    "source_header": "Art. 36 – Ineleggibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:2.1",
+    "target_document": "statuto",
+    "target_number": "2.1",
+    "target_header": "Art. 2.1 – Organi dell’Università",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.1 dello statuto",
+        "article_number": "2.1",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:36",
+    "source_document": "regolamento",
+    "source_number": "36",
+    "source_header": "Art. 36 – Ineleggibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:2.2",
+    "target_document": "statuto",
+    "target_number": "2.2",
+    "target_header": "Art. 2.2 – Il Rettore",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.2, comma 2, dello statuto",
+        "article_number": "2.2",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:36",
+    "source_document": "regolamento",
+    "source_number": "36",
+    "source_header": "Art. 36 – Ineleggibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:2.6",
+    "target_document": "statuto",
+    "target_number": "2.6",
+    "target_header": "Art. 2.6 – Cariche elettive nel Senato Accademico e designazioni nel Consiglio di Amministrazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.6, comma 1, dello statuto",
+        "article_number": "2.6",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": [
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.077
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Art. 37 - Incompatibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:2.1",
+    "target_document": "statuto",
+    "target_number": "2.1",
+    "target_header": "Art. 2.1 – Organi dell’Università",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.1 dello statuto",
+        "article_number": "2.1",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Art. 37 - Incompatibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:2.5",
+    "target_document": "statuto",
+    "target_number": "2.5",
+    "target_header": "Art. 2.5 – Il Consiglio di Amministrazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.5, comma 3, lettera d), dello statuto",
+        "article_number": "2.5",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Art. 37 - Incompatibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:2.7",
+    "target_document": "statuto",
+    "target_number": "2.7",
+    "target_header": "Art. 2.7 – Il Collegio dei Revisori dei Conti",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.7, comma 3, dello statuto",
+        "article_number": "2.7",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "collegio_revisori"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Art. 37 - Incompatibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:7.2",
+    "target_document": "statuto",
+    "target_number": "7.2",
+    "target_header": "Art. 7.2 – Norme per le designazioni elettive dei membri del Senato Accademico",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 7.2, comma 1, ultimo capoverso, dello statuto",
+        "article_number": "7.2",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": [
+          "composizione",
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Art. 37 - Incompatibilità",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:7.3",
+    "target_document": "statuto",
+    "target_number": "7.3",
+    "target_header": "Art.7.3 – Elezione delle rappresentanze studentesche",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 7.3, comma 2, dello statuto",
+        "article_number": "7.3",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:40",
+    "source_document": "regolamento",
+    "source_number": "40",
+    "source_header": "Art. 40 - Organizzazione del Dipartimento",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2 dello statuto",
+        "article_number": "3.2",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.5,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:41",
+    "source_document": "regolamento",
+    "source_number": "41",
+    "source_header": "Art. 41 - Competenze",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 1, dello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:43",
+    "source_document": "regolamento",
+    "source_number": "43",
+    "source_header": "Art. 43 - Decentramento amministrativo-gestionale",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 3, dello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:44",
+    "source_document": "regolamento",
+    "source_number": "44",
+    "source_header": "Art. 44 - Organi",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 6, dello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "6"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:45",
+    "source_document": "regolamento",
+    "source_number": "45",
+    "source_header": "Art. 45 - Il Direttore",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 6, dello\nstatuto",
+        "article_number": "3.2",
+        "paragraph_number": "6"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:46",
+    "source_document": "regolamento",
+    "source_number": "46",
+    "source_header": "Art. 46 - La Giunta",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 8, dello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "8"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:47",
+    "source_document": "regolamento",
+    "source_number": "47",
+    "source_header": "Art. 47 - Il Consiglio",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 7,\ndello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "7"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:49",
+    "source_document": "regolamento",
+    "source_number": "49",
+    "source_header": "Art. 49 - Il Segretario",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – DIPARTIMENTI",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 6, ultimo capoverso, dello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "6"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:52",
+    "source_document": "regolamento",
+    "source_number": "52",
+    "source_header": "Art. 52 – Scuole",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SCUOLE E CONSIGLI DEI CORSI DI STUDIO",
+    "target_article_id": "statuto:7.1",
+    "target_document": "statuto",
+    "target_number": "7.1",
+    "target_header": "Art. 7.1 - Norme generali per le designazioni elettive",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 7.1 dello statuto",
+        "article_number": "7.1",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "corsi_studio"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": [
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:53",
+    "source_document": "regolamento",
+    "source_number": "53",
+    "source_header": "Art. 53 – I Consigli dei Corsi di Studio",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SCUOLE E CONSIGLI DEI CORSI DI STUDIO",
+    "target_article_id": "statuto:3.3",
+    "target_document": "statuto",
+    "target_number": "3.3",
+    "target_header": "Art. 3.3 – I Consigli dei Corsi di Studio",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.3 dello statuto",
+        "article_number": "3.3",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "corsi_studio"
+        ],
+        "regulation_subjects": [
+          "corsi_studio"
+        ],
+        "statute_subjects": [
+          "corsi_studio"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.714
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:57",
+    "source_document": "regolamento",
+    "source_number": "57",
+    "source_header": "Art. 57 - Scuole di Dottorato di Ricerca",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VI – SCUOLE E CORSI DI DOTTORATO DI RICERCA",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 1,\ndello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "scuole_dottorato"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:58",
+    "source_document": "regolamento",
+    "source_number": "58",
+    "source_header": "Art. 58 - Corsi di Dottorato di Ricerca",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VI – SCUOLE E CORSI DI DOTTORATO DI RICERCA",
+    "target_article_id": "statuto:3.2",
+    "target_document": "statuto",
+    "target_number": "3.2",
+    "target_header": "Art. 3.2 – Il Dipartimento",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.2, comma 1, dello statuto",
+        "article_number": "3.2",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "scuole_dottorato"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:61",
+    "source_document": "regolamento",
+    "source_number": "61",
+    "source_header": "Art. 61 – Gestione amministrativa e contabile delle strutture dipartimentali",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VIII – GESTIONE AMMINISTRATIVA E CONTABILE",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.1, comma 2, dello statuto",
+        "article_number": "3.1",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:62",
+    "source_document": "regolamento",
+    "source_number": "62",
+    "source_header": "Art. 62 - Definizione e organizzazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IX – CENTRI DI SERVIZIO INTERDIPARTIMENTALI, PER L’EROGAZIONE DEI SERVIZI DI SUPPORTO - ALLE ATTIVITÀ DIDATTICHE E SCIENTIFICHE",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.1 dello statuto",
+        "article_number": "3.1",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:65",
+    "source_document": "regolamento",
+    "source_number": "65",
+    "source_header": "Art. 65 - Definizione e organizzazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO X – CENTRI DI RICERCA INTERDIPARTIMENTALI, PER LE ATTIVITÀ SCIENTIFICHE DI RILEVANTE - IMPEGNO",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.1 dello statuto",
+        "article_number": "3.1",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:68",
+    "source_document": "regolamento",
+    "source_number": "68",
+    "source_header": "Art. 68 - Definizione e organizzazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – CENTRI DI SPERIMENTAZIONE E/O DOCUMENTAZIONE SCIENTIFICA, PER LA RACCOLTA, LA - CONSERVAZIONE E LA GESTIONE DI INFORMAZIONI E DI MATERIALI SPERIMENTALI RIGUARDANTI I - FENOMENI CHE COSTITUISCONO OGGETTO DI STUDIO NELL’ATENEO",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.1, comma\n2, dello statuto",
+        "article_number": "3.1",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:69",
+    "source_document": "regolamento",
+    "source_number": "69",
+    "source_header": "Art. 69 - Definizione e organizzazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XII – CENTRI COMUNI DI SERVIZIO",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.1, comma 2, dello\nstatuto",
+        "article_number": "3.1",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:72",
+    "source_document": "regolamento",
+    "source_number": "72",
+    "source_header": "Art. 72 - Definizione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XIII – SISTEMA BIBLIOTECARIO DI ATENEO",
+    "target_article_id": "statuto:3.8",
+    "target_document": "statuto",
+    "target_number": "3.8",
+    "target_header": "Art. 3.8 – Sistema Bibliotecario di Ateneo",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.8, comma 1, dello statuto",
+        "article_number": "3.8",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "regulation_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:74",
+    "source_document": "regolamento",
+    "source_number": "74",
+    "source_header": "Art. 74 - Biblioteche Interdipartimentali o di Area",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XIII – SISTEMA BIBLIOTECARIO DI ATENEO",
+    "target_article_id": "statuto:3.8",
+    "target_document": "statuto",
+    "target_number": "3.8",
+    "target_header": "Art. 3.8 – Sistema Bibliotecario di Ateneo",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 3.8, comma 4, dello statuto",
+        "article_number": "3.8",
+        "paragraph_number": "4"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "regulation_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.167,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:9",
+    "source_document": "regolamento",
+    "source_number": "9",
+    "source_header": "Art. 9 - Competenze",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – IL RETTORE",
+    "target_article_id": "statuto:2.2",
+    "target_document": "statuto",
+    "target_number": "2.2",
+    "target_header": "Art. 2.2 – Il Rettore",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 2.2, comma 1, dello statuto",
+        "article_number": "2.2",
+        "paragraph_number": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "rettore"
+        ],
+        "regulation_subjects": [
+          "rettore"
+        ],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.5
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:55",
+    "source_document": "regolamento",
+    "source_number": "55",
+    "source_header": "Art. 55 - Istituzione e attivazione di Scuole di Specializzazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – SCUOLE DI SPECIALIZZAZIONE",
+    "target_article_id": "statuto:3.5",
+    "target_document": "statuto",
+    "target_number": "3.5",
+    "target_header": "Art. 3.5 – Le Scuole di Specializzazione",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.99,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "scuole_specializzazione"
+        ],
+        "regulation_subjects": [
+          "scuole_specializzazione"
+        ],
+        "statute_subjects": [
+          "scuole_specializzazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "istituzione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.6,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:10",
+    "source_document": "regolamento",
+    "source_number": "10",
+    "source_header": "Art. 10 - Elezioni del Rettore",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO II – IL RETTORE",
+    "target_article_id": "statuto:2.2",
+    "target_document": "statuto",
+    "target_number": "2.2",
+    "target_header": "Art. 2.2 – Il Rettore",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "rettore"
+        ],
+        "regulation_subjects": [
+          "rettore"
+        ],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.5,
+        "chapter_header_score": 0.5
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:14",
+    "source_document": "regolamento",
+    "source_number": "14",
+    "source_header": "Art. 14 - Modalità di elezione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:2.4",
+    "target_document": "statuto",
+    "target_number": "2.4",
+    "target_header": "Art. 2.4 – Il Senato Accademico",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:15",
+    "source_document": "regolamento",
+    "source_number": "15",
+    "source_header": "Art. 15 - Norme di funzionamento",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SENATO ACCADEMICO",
+    "target_article_id": "statuto:2.4",
+    "target_document": "statuto",
+    "target_number": "2.4",
+    "target_header": "Art. 2.4 – Il Senato Accademico",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:18",
+    "source_document": "regolamento",
+    "source_number": "18",
+    "source_header": "Art. 18 - Modalità di elezione e modalità di designazione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – CONSIGLIO DI AMMINISTRAZIONE",
+    "target_article_id": "statuto:2.6",
+    "target_document": "statuto",
+    "target_number": "2.6",
+    "target_header": "Art. 2.6 – Cariche elettive nel Senato Accademico e designazioni nel Consiglio di Amministrazione",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "same_main_function",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": true,
+        "functions": [
+          "nomina"
+        ],
+        "regulation_functions": [
+          "elezione",
+          "nomina"
+        ],
+        "statute_functions": [
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.167,
+        "chapter_header_score": 0.333
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:20",
+    "source_document": "regolamento",
+    "source_number": "20",
+    "source_header": "Art. 20 – Competenze e modalità di funzionamento",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO V – COLLEGIO DEI REVISORI DEI CONTI",
+    "target_article_id": "statuto:2.7",
+    "target_document": "statuto",
+    "target_number": "2.7",
+    "target_header": "Art. 2.7 – Il Collegio dei Revisori dei Conti",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "collegio_revisori"
+        ],
+        "regulation_subjects": [
+          "collegio_revisori"
+        ],
+        "statute_subjects": [
+          "collegio_revisori"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.8
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:21",
+    "source_document": "regolamento",
+    "source_number": "21",
+    "source_header": "Art. 21 - Composizione",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO V – COLLEGIO DEI REVISORI DEI CONTI",
+    "target_article_id": "statuto:2.7",
+    "target_document": "statuto",
+    "target_number": "2.7",
+    "target_header": "Art. 2.7 – Il Collegio dei Revisori dei Conti",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "collegio_revisori"
+        ],
+        "regulation_subjects": [
+          "collegio_revisori"
+        ],
+        "statute_subjects": [
+          "collegio_revisori"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.8
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:26",
+    "source_document": "regolamento",
+    "source_number": "26",
+    "source_header": "Art. 26 – Nomina e conferimento dell’incarico",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VII – DIRETTORE GENERALE",
+    "target_article_id": "statuto:2.9",
+    "target_document": "statuto",
+    "target_number": "2.9",
+    "target_header": "Art. 2.9 – Il Direttore Generale",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "direttore_generale"
+        ],
+        "regulation_subjects": [
+          "direttore_generale"
+        ],
+        "statute_subjects": [
+          "direttore_generale"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:27",
+    "source_document": "regolamento",
+    "source_number": "27",
+    "source_header": "Art. 27 – Valutazione annuale della performance",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VII – DIRETTORE GENERALE",
+    "target_article_id": "statuto:2.9",
+    "target_document": "statuto",
+    "target_number": "2.9",
+    "target_header": "Art. 2.9 – Il Direttore Generale",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "direttore_generale"
+        ],
+        "regulation_subjects": [
+          "direttore_generale"
+        ],
+        "statute_subjects": [
+          "direttore_generale"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:30",
+    "source_document": "regolamento",
+    "source_number": "30",
+    "source_header": "Art. 30 - Norme di funzionamento",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VIII – CONSIGLIO DEGLI STUDENTI",
+    "target_article_id": "statuto:2.10",
+    "target_document": "statuto",
+    "target_number": "2.10",
+    "target_header": "Art. 2.10 – Il Consiglio degli Studenti",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_studenti"
+        ],
+        "regulation_subjects": [
+          "consiglio_studenti"
+        ],
+        "statute_subjects": [
+          "consiglio_studenti"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:32",
+    "source_document": "regolamento",
+    "source_number": "32",
+    "source_header": "Art. 32 – Modalità di funzionamento",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IX – COLLEGIO DI DISCIPLINA",
+    "target_article_id": "statuto:2.11",
+    "target_document": "statuto",
+    "target_number": "2.11",
+    "target_header": "Art. 2.11 – Il Collegio di Disciplina",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "collegio_disciplina"
+        ],
+        "regulation_subjects": [
+          "collegio_disciplina"
+        ],
+        "statute_subjects": [
+          "collegio_disciplina"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.2,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:52",
+    "source_document": "regolamento",
+    "source_number": "52",
+    "source_header": "Art. 52 – Scuole",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO III – SCUOLE E CONSIGLI DEI CORSI DI STUDIO",
+    "target_article_id": "statuto:3.3",
+    "target_document": "statuto",
+    "target_number": "3.3",
+    "target_header": "Art. 3.3 – I Consigli dei Corsi di Studio",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "corsi_studio"
+        ],
+        "regulation_subjects": [
+          "corsi_studio"
+        ],
+        "statute_subjects": [
+          "corsi_studio"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.714
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:54",
+    "source_document": "regolamento",
+    "source_number": "54",
+    "source_header": "Art. 54 - Afferenza, coordinamento e organizzazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO IV – SCUOLE DI SPECIALIZZAZIONE",
+    "target_article_id": "statuto:3.5",
+    "target_document": "statuto",
+    "target_number": "3.5",
+    "target_header": "Art. 3.5 – Le Scuole di Specializzazione",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "scuole_specializzazione"
+        ],
+        "regulation_subjects": [
+          "scuole_specializzazione"
+        ],
+        "statute_subjects": [
+          "scuole_specializzazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:57",
+    "source_document": "regolamento",
+    "source_number": "57",
+    "source_header": "Art. 57 - Scuole di Dottorato di Ricerca",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VI – SCUOLE E CORSI DI DOTTORATO DI RICERCA",
+    "target_article_id": "statuto:3.6",
+    "target_document": "statuto",
+    "target_number": "3.6",
+    "target_header": "Art. 3.6 – I Corsi e le Scuole di Dottorato di Ricerca",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "scuole_dottorato"
+        ],
+        "regulation_subjects": [
+          "scuole_dottorato"
+        ],
+        "statute_subjects": [
+          "scuole_dottorato"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.429,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:58",
+    "source_document": "regolamento",
+    "source_number": "58",
+    "source_header": "Art. 58 - Corsi di Dottorato di Ricerca",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO VI – SCUOLE E CORSI DI DOTTORATO DI RICERCA",
+    "target_article_id": "statuto:3.6",
+    "target_document": "statuto",
+    "target_number": "3.6",
+    "target_header": "Art. 3.6 – I Corsi e le Scuole di Dottorato di Ricerca",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "scuole_dottorato"
+        ],
+        "regulation_subjects": [
+          "scuole_dottorato"
+        ],
+        "statute_subjects": [
+          "scuole_dottorato"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.429,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:73",
+    "source_document": "regolamento",
+    "source_number": "73",
+    "source_header": "Art. 73 - Comitato di Coordinamento delle Biblioteche",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XIII – SISTEMA BIBLIOTECARIO DI ATENEO",
+    "target_article_id": "statuto:3.8",
+    "target_document": "statuto",
+    "target_number": "3.8",
+    "target_header": "Art. 3.8 – Sistema Bibliotecario di Ateneo",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "regulation_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.167,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:73-bis",
+    "source_document": "regolamento",
+    "source_number": "73-bis",
+    "source_header": "Art. 73-bis – Direttore del Sistema Bibliotecario di Ateneo",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XIII – SISTEMA BIBLIOTECARIO DI ATENEO",
+    "target_article_id": "statuto:3.8",
+    "target_document": "statuto",
+    "target_number": "3.8",
+    "target_header": "Art. 3.8 – Sistema Bibliotecario di Ateneo",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "regulation_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.5,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:75",
+    "source_document": "regolamento",
+    "source_number": "75",
+    "source_header": "Art. 75 - Biblioteche Dipartimentali",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XIII – SISTEMA BIBLIOTECARIO DI ATENEO",
+    "target_article_id": "statuto:3.8",
+    "target_document": "statuto",
+    "target_number": "3.8",
+    "target_header": "Art. 3.8 – Sistema Bibliotecario di Ateneo",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "regulation_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.75
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:56",
+    "source_document": "regolamento",
+    "source_number": "56",
+    "source_header": "Art. 56 - Istituzione e attivazione di Scuole Superiori e di Alta Formazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO V – SCUOLE SUPERIORI E DI ALTA FORMAZIONE",
+    "target_article_id": "statuto:3.9",
+    "target_document": "statuto",
+    "target_number": "3.9",
+    "target_header": "Art. 3.9 – Scuole Superiori e di Alta Formazione",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.4,
+    "evidence": {
+      "matched_patterns": [
+        "chapter_header_similarity",
+        "header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "istituzione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.714,
+        "chapter_header_score": 0.714
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:8",
+    "source_document": "regolamento",
+    "source_number": "8",
+    "source_header": "Art. 8 - Organi dell’Università",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I – ORGANI DELL’UNIVERSITÀ",
+    "target_article_id": "statuto:2.1",
+    "target_document": "statuto",
+    "target_number": "2.1",
+    "target_header": "Art. 2.1 – Organi dell’Università",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.4,
+    "evidence": {
+      "matched_patterns": [
+        "chapter_header_similarity",
+        "header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.5
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:8",
+    "source_document": "regolamento",
+    "source_number": "8",
+    "source_header": "Art. 8 - Organi dell’Università",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I – ORGANI DELL’UNIVERSITÀ",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.35,
+    "evidence": {
+      "matched_patterns": [
+        "chapter_header_similarity",
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.5,
+        "header_score": 1.0,
+        "chapter_header_score": 0.5
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:39",
+    "source_document": "regolamento",
+    "source_number": "39",
+    "source_header": "Art. 39 - Strutture dell’Università",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I -STRUTTURE",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.2,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:2",
+    "source_document": "regolamento",
+    "source_number": "2",
+    "source_header": "Art. 2 - Coordinamento delle attività dei professori e dei ricercatori",
+    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
+    "source_chapter": "",
+    "target_article_id": "statuto:3.7",
+    "target_document": "statuto",
+    "target_number": "3.7",
+    "target_header": "Art. 3.7 – Impegno didattico dei professori e dei ricercatori",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.571,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:38",
+    "source_document": "regolamento",
+    "source_number": "38",
+    "source_header": "Art. 38 – Impegno didattico dei professori e dei ricercatori",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:3.7",
+    "target_document": "statuto",
+    "target_number": "3.7",
+    "target_header": "Art. 3.7 – Impegno didattico dei professori e dei ricercatori",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.5,
+        "header_score": 1.0,
+        "chapter_header_score": 0.111
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:39",
+    "source_document": "regolamento",
+    "source_number": "39",
+    "source_header": "Art. 39 - Strutture dell’Università",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I -STRUTTURE",
+    "target_article_id": "statuto:2.1",
+    "target_document": "statuto",
+    "target_number": "2.1",
+    "target_header": "Art. 2.1 – Organi dell’Università",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.5,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:5",
+    "source_document": "regolamento",
+    "source_number": "5",
+    "source_header": "Art. 5 – Personale universitario e ambiente di lavoro",
+    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
+    "source_chapter": "",
+    "target_article_id": "statuto:1.4",
+    "target_document": "statuto",
+    "target_number": "1.4",
+    "target_header": "Art. 1.4 – Personale universitario e ambiente di lavoro",
+    "target_title": "TITOLO I – PRINCIPI GENERALI",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.333,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:7",
+    "source_document": "regolamento",
+    "source_number": "7",
+    "source_header": "Art. 7 – Sistema di Gestione dei Documenti, dei Flussi Documentali e degli Archivi di Ateneo",
+    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
+    "source_chapter": "",
+    "target_article_id": "statuto:1.8",
+    "target_document": "statuto",
+    "target_number": "1.8",
+    "target_header": "Art. 1.8 – Sistema di Gestione dei Documenti, dei Flussi Documentali e degli Archivi di Ateneo",
+    "target_title": "TITOLO I – PRINCIPI GENERALI",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.333,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:77",
+    "source_document": "regolamento",
+    "source_number": "77",
+    "source_header": "Art. 77 – Norma finale",
+    "source_title": "TITOLO V – NORMA FINALE",
+    "source_chapter": "",
+    "target_article_id": "statuto:7.4",
+    "target_document": "statuto",
+    "target_number": "7.4",
+    "target_header": "Art. 7.4 – Norma finale",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  }
+]

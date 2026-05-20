@@ -1,0 +1,3431 @@
+[
+  {
+    "source_article_id": "regolamento:1",
+    "source_document": "regolamento",
+    "source_number": "1",
+    "source_header": "Articolo 1 - Oggetto",
+    "source_title": "Titolo I - Finalità",
+    "source_chapter": "",
+    "target_article_id": "statuto:43",
+    "target_document": "statuto",
+    "target_number": "43",
+    "target_header": "Articolo 43 - Regolamento Generale di Ateneo",
+    "target_title": "Titolo V - Autonomia organizzativa, gestionale e regolamentare",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 43 dello statuto",
+        "article_number": "43",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:107",
+    "source_document": "regolamento",
+    "source_number": "107",
+    "source_header": "Articolo 107 - Oggetto e finalità",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo II - Commissioni scientifiche di area: composizione e funzionamento",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 21, comma 3, dello statuto",
+        "article_number": "21",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione",
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.083,
+        "chapter_header_score": 0.385
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:11",
+    "source_document": "regolamento",
+    "source_number": "11",
+    "source_header": "Articolo 11 - Incompatibilità",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo I - Norme comuni",
+    "target_article_id": "statuto:50",
+    "target_document": "statuto",
+    "target_number": "50",
+    "target_header": "Articolo 50 - Incompatibilità",
+    "target_title": "Titolo VI - Disposizioni comuni, transitorie e finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 50 dello statuto",
+        "article_number": "50",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_function"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": true,
+        "functions": [
+          "incompatibilità"
+        ],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": [
+          "incompatibilità"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:112",
+    "source_document": "regolamento",
+    "source_number": "112",
+    "source_header": "Articolo 112 - Numero, composizione e modalità di individuazione dei componenti della Commissione paritetica - del dipartimento, della Commissione paritetica della scuola, della Commissione paritetica del corso - di studio",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo III - Commissioni paritetiche",
+    "target_article_id": "statuto:36",
+    "target_document": "statuto",
+    "target_number": "36",
+    "target_header": "Articolo 36 - Le Commissioni paritetiche",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 36, comma 3, dello statuto",
+        "article_number": "36",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "corsi_studio",
+          "dipartimento"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 1.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:113",
+    "source_document": "regolamento",
+    "source_number": "113",
+    "source_header": "Articolo 113 - Regolamento del Consiglio Studentesco",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo IV - Norme quadro per la predisposizione del Regolamento di funzionamento del Consiglio Studentesco - e per la costituzione e funzionamento del Comitato Unico di Garanzia",
+    "target_article_id": "statuto:18",
+    "target_document": "statuto",
+    "target_number": "18",
+    "target_header": "Articolo 18 - Il Consiglio Studentesco",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 18 dello statuto",
+        "article_number": "18",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_studenti"
+        ],
+        "regulation_subjects": [
+          "comitato_unico_garanzia",
+          "consiglio_studenti"
+        ],
+        "statute_subjects": [
+          "consiglio_studenti"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento",
+          "istituzione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.667,
+        "chapter_header_score": 0.125
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:114",
+    "source_document": "regolamento",
+    "source_number": "114",
+    "source_header": "Articolo 114 - Regolamento Comitato Unico di Garanzia",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo IV - Norme quadro per la predisposizione del Regolamento di funzionamento del Consiglio Studentesco - e per la costituzione e funzionamento del Comitato Unico di Garanzia",
+    "target_article_id": "statuto:19",
+    "target_document": "statuto",
+    "target_number": "19",
+    "target_header": "Articolo 19 - Il Comitato unico di garanzia",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 19 dello statuto",
+        "article_number": "19",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "comitato_unico_garanzia"
+        ],
+        "regulation_subjects": [
+          "comitato_unico_garanzia",
+          "consiglio_studenti"
+        ],
+        "statute_subjects": [
+          "comitato_unico_garanzia"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento",
+          "istituzione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 1.0,
+        "chapter_header_score": 0.25
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:116",
+    "source_document": "regolamento",
+    "source_number": "116",
+    "source_header": "Articolo 116 - Il dipartimento",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo I - Dipartimenti",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Articolo 22 - Il dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 22 dello statuto",
+        "article_number": "22",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:117",
+    "source_document": "regolamento",
+    "source_number": "117",
+    "source_header": "Articolo 117 - Procedura per l’istituzione e la disattivazione del dipartimento",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo I - Dipartimenti",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Articolo 22 - Il dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 22, comma 6, dello statuto",
+        "article_number": "22",
+        "paragraph_number": "6"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "disattivazione",
+          "istituzione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.125,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:121",
+    "source_document": "regolamento",
+    "source_number": "121",
+    "source_header": "Articolo 121 - Norme quadro per la predisposizione del Regolamento di funzionamento del Dipartimento",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo I - Dipartimenti",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Articolo 22 - Il dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 22, comma 2, dello statuto",
+        "article_number": "22",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.111,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:121",
+    "source_document": "regolamento",
+    "source_number": "121",
+    "source_header": "Articolo 121 - Norme quadro per la predisposizione del Regolamento di funzionamento del Dipartimento",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo I - Dipartimenti",
+    "target_article_id": "statuto:26",
+    "target_document": "statuto",
+    "target_number": "26",
+    "target_header": "Articolo 26 - La Giunta del dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 26 dello statuto",
+        "article_number": "26",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.2,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:121-bis",
+    "source_document": "regolamento",
+    "source_number": "121-bis",
+    "source_header": "Articolo 121-bis - Il Collegio dei Direttori di dipartimento",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "CAPO I bis - Collegio dei Direttori di dipartimento",
+    "target_article_id": "statuto:27-bis",
+    "target_document": "statuto",
+    "target_number": "27-bis",
+    "target_header": "Articolo 27-bis - Il Collegio dei Direttori di Dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 27-bis dello statuto",
+        "article_number": "27-bis",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.625
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:122",
+    "source_document": "regolamento",
+    "source_number": "122",
+    "source_header": "Articolo 122 - Scuole interdipartimentali",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo II - Scuole interdipartimentali",
+    "target_article_id": "statuto:28",
+    "target_document": "statuto",
+    "target_number": "28",
+    "target_header": "Articolo 28 - La Scuola interdipartimentale",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 28 dello statuto",
+        "article_number": "28",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "scuole_interdipartimentali"
+        ],
+        "regulation_subjects": [
+          "scuole_interdipartimentali"
+        ],
+        "statute_subjects": [
+          "scuole_interdipartimentali"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:125",
+    "source_document": "regolamento",
+    "source_number": "125",
+    "source_header": "Articolo 125 - Tipologie",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo III - Centri - Sezione I - Centri di Ateneo",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Articolo 39 - I centri, i consorzi universitari e gli organismi - Associativi",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 39, comma 5, dello statuto",
+        "article_number": "39",
+        "paragraph_number": "5"
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.182
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:130",
+    "source_document": "regolamento",
+    "source_number": "130",
+    "source_header": "Articolo 130 - Tipologie",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo III - Centri - Sezione I - Centri di Ateneo",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Articolo 39 - I centri, i consorzi universitari e gli organismi - Associativi",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 39, commi 1 e 2 dello statuto",
+        "article_number": "39",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.182
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:133",
+    "source_document": "regolamento",
+    "source_number": "133",
+    "source_header": "Articolo 133 - Organi del centro",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo III - Centri - Sezione I - Centri di Ateneo",
+    "target_article_id": "statuto:17",
+    "target_document": "statuto",
+    "target_number": "17",
+    "target_header": "Articolo 17 - Il Direttore generale",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 17,\ncomma 2, dello statuto",
+        "article_number": "17",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "direttore_generale"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.125,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:136",
+    "source_document": "regolamento",
+    "source_number": "136",
+    "source_header": "Articolo 136 - Centri interuniversitari, Consorzi e altri Organismi associativi",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "Capo III - Centri - Sezione I - Centri di Ateneo",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Articolo 39 - I centri, i consorzi universitari e gli organismi - Associativi",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 39, commi 6 e 7\ndello statuto",
+        "article_number": "39",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.4,
+        "chapter_header_score": 0.182
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:137",
+    "source_document": "regolamento",
+    "source_number": "137",
+    "source_header": "Articolo 137 - Oggetto",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Articolo 38 - Il Sistema Bibliotecario di Ateneo, il Sistema - Museale di Ateneo e il Sistema Informatico di Ateneo",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 38 dello statuto",
+        "article_number": "38",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:138",
+    "source_document": "regolamento",
+    "source_number": "138",
+    "source_header": "Articolo 138 - Sistema Bibliotecario di Ateneo (SBA)",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo I - Sistema Bibliotecario di Ateneo",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Articolo 38 - Il Sistema Bibliotecario di Ateneo, il Sistema - Museale di Ateneo e il Sistema Informatico di Ateneo",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 38 dello statuto",
+        "article_number": "38",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "regulation_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.333,
+        "chapter_header_score": 0.444
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:138",
+    "source_document": "regolamento",
+    "source_number": "138",
+    "source_header": "Articolo 138 - Sistema Bibliotecario di Ateneo (SBA)",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo I - Sistema Bibliotecario di Ateneo",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Articolo 39 - I centri, i consorzi universitari e gli organismi - Associativi",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 39, comma 4, dello statuto",
+        "article_number": "39",
+        "paragraph_number": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "sistema_bibliotecario"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.0,
+        "chapter_header_score": 0.083
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:148",
+    "source_document": "regolamento",
+    "source_number": "148",
+    "source_header": "Articolo 148 - Sistema Museale di Ateneo (SMA)",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo II - Sistema Museale",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Articolo 38 - Il Sistema Bibliotecario di Ateneo, il Sistema - Museale di Ateneo e il Sistema Informatico di Ateneo",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 38 dello statuto",
+        "article_number": "38",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.333,
+        "chapter_header_score": 0.25
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:148",
+    "source_document": "regolamento",
+    "source_number": "148",
+    "source_header": "Articolo 148 - Sistema Museale di Ateneo (SMA)",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo II - Sistema Museale",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Articolo 39 - I centri, i consorzi universitari e gli organismi - Associativi",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 39, comma\n4 dello statuto",
+        "article_number": "39",
+        "paragraph_number": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:157",
+    "source_document": "regolamento",
+    "source_number": "157",
+    "source_header": "Articolo 157 - Norma di coordinamento",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo II - Sistema Museale",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Articolo 38 - Il Sistema Bibliotecario di Ateneo, il Sistema - Museale di Ateneo e il Sistema Informatico di Ateneo",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 38, comma 3, dello statuto",
+        "article_number": "38",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.111,
+        "chapter_header_score": 0.25
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:158",
+    "source_document": "regolamento",
+    "source_number": "158",
+    "source_header": "Articolo 158 - Sistema Informatico di Ateneo (SIA)",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo III - Sistema Informatico di Ateneo (SIA)",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Articolo 38 - Il Sistema Bibliotecario di Ateneo, il Sistema - Museale di Ateneo e il Sistema Informatico di Ateneo",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 38 dello statuto",
+        "article_number": "38",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.333,
+        "chapter_header_score": 0.444
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:158",
+    "source_document": "regolamento",
+    "source_number": "158",
+    "source_header": "Articolo 158 - Sistema Informatico di Ateneo (SIA)",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo III - Sistema Informatico di Ateneo (SIA)",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Articolo 39 - I centri, i consorzi universitari e gli organismi - Associativi",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 39, comma 4, dello statuto",
+        "article_number": "39",
+        "paragraph_number": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:16",
+    "source_document": "regolamento",
+    "source_number": "16",
+    "source_header": "Articolo 16 - Oggetto e sistema elettorale",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo II - Elezioni del Rettore",
+    "target_article_id": "statuto:12",
+    "target_document": "statuto",
+    "target_number": "12",
+    "target_header": "Articolo 12 - Il Rettore",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 12, comma 16, dello statuto",
+        "article_number": "12",
+        "paragraph_number": "16"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "rettore"
+        ],
+        "regulation_subjects": [
+          "rettore"
+        ],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.333
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:167",
+    "source_document": "regolamento",
+    "source_number": "167",
+    "source_header": "Articolo 167 - Norma di coordinamento",
+    "source_title": "Titolo V - Sistemi di Ateneo",
+    "source_chapter": "Capo III - Sistema Informatico di Ateneo (SIA)",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Articolo 38 - Il Sistema Bibliotecario di Ateneo, il Sistema - Museale di Ateneo e il Sistema Informatico di Ateneo",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 38, comma 4, dello statuto",
+        "article_number": "38",
+        "paragraph_number": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.111,
+        "header_score": 0.111,
+        "chapter_header_score": 0.444
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:168",
+    "source_document": "regolamento",
+    "source_number": "168",
+    "source_header": "Articolo 168 - Procedura di controllo",
+    "source_title": "Titolo VI - Controllo regolamenti delle strutture",
+    "source_chapter": "",
+    "target_article_id": "statuto:46",
+    "target_document": "statuto",
+    "target_number": "46",
+    "target_header": "Articolo 46 - Altri regolamenti",
+    "target_title": "Titolo V - Autonomia organizzativa, gestionale e regolamentare",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 46 dello statuto",
+        "article_number": "46",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:170",
+    "source_document": "regolamento",
+    "source_number": "170",
+    "source_header": "Articolo 170 - Indirizzi per l’organizzazione dell’apparato tecnico-amministrativo",
+    "source_title": "Titolo VII - Norme relative all’organizzazione dei servizi amministrativi e tecnici",
+    "source_chapter": "Capo I - Organizzazione interna",
+    "target_article_id": "statuto:42",
+    "target_document": "statuto",
+    "target_number": "42",
+    "target_header": "Articolo 42 - Autonomia organizzativa e gestionale",
+    "target_title": "Titolo V - Autonomia organizzativa, gestionale e regolamentare",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 42 comma 3 dello statuto",
+        "article_number": "42",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.071,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:25",
+    "source_document": "regolamento",
+    "source_number": "25",
+    "source_header": "Articolo 25 - Oggetto e sistema elettorale",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo III - Elezioni delle rappresentanze del personale docente e tecnico amministrativo nel Senato - Accademico",
+    "target_article_id": "statuto:13",
+    "target_document": "statuto",
+    "target_number": "13",
+    "target_header": "Articolo 13 - Il Senato accademico",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 13, comma 19, dello statuto",
+        "article_number": "13",
+        "paragraph_number": "19"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.167
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:25",
+    "source_document": "regolamento",
+    "source_number": "25",
+    "source_header": "Articolo 25 - Oggetto e sistema elettorale",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo III - Elezioni delle rappresentanze del personale docente e tecnico amministrativo nel Senato - Accademico",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Articolo 22 - Il dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 22, comma 14, dello statuto",
+        "article_number": "22",
+        "paragraph_number": "14"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:3",
+    "source_document": "regolamento",
+    "source_number": "3",
+    "source_header": "Articolo 3 - Indizione delle elezioni",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo I - Norme comuni",
+    "target_article_id": "statuto:49",
+    "target_document": "statuto",
+    "target_number": "49",
+    "target_header": "Articolo 49 - Disciplina delle nomine",
+    "target_title": "Titolo VI - Disposizioni comuni, transitorie e finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 49, comma 3, dello statuto",
+        "article_number": "49",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.333,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:35",
+    "source_document": "regolamento",
+    "source_number": "35",
+    "source_header": "Articolo 35 - Oggetto e sistema elettorale e di designazione",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo IV - Elezione dei componenti interni e designazione dei componenti esterni del Consiglio di - Amministrazione",
+    "target_article_id": "statuto:14",
+    "target_document": "statuto",
+    "target_number": "14",
+    "target_header": "Articolo 14 - Il Consiglio di Amministrazione",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 14, comma 9, dello statuto",
+        "article_number": "14",
+        "paragraph_number": "9"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione",
+          "elezione",
+          "nomina"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.143,
+        "chapter_header_score": 0.273
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Articolo 37 - Elettorato attivo e passivo",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo IV - Elezione dei componenti interni e designazione dei componenti esterni del Consiglio di - Amministrazione",
+    "target_article_id": "statuto:14",
+    "target_document": "statuto",
+    "target_number": "14",
+    "target_header": "Articolo 14 - Il Consiglio di Amministrazione",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art.\n14 dello statuto",
+        "article_number": "14",
+        "paragraph_number": null
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione",
+          "elezione",
+          "nomina"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.273
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:42-bis",
+    "source_document": "regolamento",
+    "source_number": "42-bis",
+    "source_header": "Articolo 42-bis - Oggetto e sistema elettorale",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo IV bis - Elezione dei componenti interni del Collegio di disciplina",
+    "target_article_id": "statuto:20",
+    "target_document": "statuto",
+    "target_number": "20",
+    "target_header": "Articolo 20 - Il Collegio di disciplina",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 20, comma 2, dello statuto",
+        "article_number": "20",
+        "paragraph_number": "2"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "collegio_disciplina"
+        ],
+        "regulation_subjects": [
+          "collegio_disciplina"
+        ],
+        "statute_subjects": [
+          "collegio_disciplina"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione",
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.333
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:44",
+    "source_document": "regolamento",
+    "source_number": "44",
+    "source_header": "Articolo 44 - Rappresentanze",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo V - Disciplina per le elezioni delle rappresentanze studentesche",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Articolo 22 - Il dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 22, comma 14, dello\nstatuto",
+        "article_number": "22",
+        "paragraph_number": "14"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:45",
+    "source_document": "regolamento",
+    "source_number": "45",
+    "source_header": "Articolo 45 - Elettorato attivo e passivo",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo V - Disciplina per le elezioni delle rappresentanze studentesche",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Articolo 22 - Il dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 22, comma 14, dello statuto",
+        "article_number": "22",
+        "paragraph_number": "14"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:60-bis",
+    "source_document": "regolamento",
+    "source_number": "60-bis",
+    "source_header": "Articolo 60-bis - Corsi di nuova istituzione",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo V - Disciplina per le elezioni delle rappresentanze studentesche",
+    "target_article_id": "statuto:34",
+    "target_document": "statuto",
+    "target_number": "34",
+    "target_header": "Articolo 34 - Il Consiglio del corso di studio",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 34, comma 3, dello statuto",
+        "article_number": "34",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "corsi_studio"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione",
+          "istituzione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.125,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:64",
+    "source_document": "regolamento",
+    "source_number": "64",
+    "source_header": "Articolo 64 - Oggetto e sistema elettorale",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo VI - Elezioni componenti Commissioni scientifiche di area",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 21, comma 3, dello statuto",
+        "article_number": "21",
+        "paragraph_number": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione",
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.077,
+        "chapter_header_score": 0.286
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:73",
+    "source_document": "regolamento",
+    "source_number": "73",
+    "source_header": "Articolo 73 - Oggetto e sistema elettorale",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo VII - Elezioni rappresentanti nel Consiglio di dipartimento (personale tecnico-amministrativo, dottorandi - e specializzandi, assegnisti di ricerca)",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Articolo 25 - Il Consiglio del dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 25, comma 6, dello statuto",
+        "article_number": "25",
+        "paragraph_number": "6"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione",
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.133
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:121-quater",
+    "source_document": "regolamento",
+    "source_number": "121-quater",
+    "source_header": "Articolo 121-quater - Svolgimento delle sedute",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "CAPO I bis - Collegio dei Direttori di dipartimento",
+    "target_article_id": "statuto:27-bis",
+    "target_document": "statuto",
+    "target_number": "27-bis",
+    "target_header": "Articolo 27-bis - Il Collegio dei Direttori di Dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.625
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:121-ter",
+    "source_document": "regolamento",
+    "source_number": "121-ter",
+    "source_header": "Articolo 121-ter - Modalità di designazione del Coordinatore",
+    "source_title": "Titolo IV - Strutture didattiche, scientifiche e di servizio",
+    "source_chapter": "CAPO I bis - Collegio dei Direttori di dipartimento",
+    "target_article_id": "statuto:27-bis",
+    "target_document": "statuto",
+    "target_number": "27-bis",
+    "target_header": "Articolo 27-bis - Il Collegio dei Direttori di Dipartimento",
+    "target_title": "Titolo III - Strutture didattiche, scientifiche e di servizio",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.85,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "nomina"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 0.1,
+        "chapter_header_score": 0.625
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:100",
+    "source_document": "regolamento",
+    "source_number": "100",
+    "source_header": "Articolo 100 - Pubblicità degli atti",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:101",
+    "source_document": "regolamento",
+    "source_number": "101",
+    "source_header": "Articolo 101 - Commissioni permanenti Senato accademico e Consiglio di Amministrazione",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.5,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:102",
+    "source_document": "regolamento",
+    "source_number": "102",
+    "source_header": "Articolo 102 - Altre commissioni",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.091,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:103",
+    "source_document": "regolamento",
+    "source_number": "103",
+    "source_header": "Articolo 103 - Composizione delle Commissioni permanenti",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.077,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:104",
+    "source_document": "regolamento",
+    "source_number": "104",
+    "source_header": "Articolo 104 - Funzioni di Presidente",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.083,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:105",
+    "source_document": "regolamento",
+    "source_number": "105",
+    "source_header": "Articolo 105 - Decadenza",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:106",
+    "source_document": "regolamento",
+    "source_number": "106",
+    "source_header": "Articolo 106 - Segreteria di supporto",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.083,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:82",
+    "source_document": "regolamento",
+    "source_number": "82",
+    "source_header": "Articolo 82 - Calendario delle adunanze",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:83",
+    "source_document": "regolamento",
+    "source_number": "83",
+    "source_header": "Articolo 83 - Convocazione e ordine del giorno",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.154,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:84",
+    "source_document": "regolamento",
+    "source_number": "84",
+    "source_header": "Articolo 84 - Schema di deliberazione",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.083,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:85",
+    "source_document": "regolamento",
+    "source_number": "85",
+    "source_header": "Articolo 85 - Validità delle sedute",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:86",
+    "source_document": "regolamento",
+    "source_number": "86",
+    "source_header": "Articolo 86 - Poteri del Presidente",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.083,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:87",
+    "source_document": "regolamento",
+    "source_number": "87",
+    "source_header": "Articolo 87 - Funzioni di segretario verbalizzante",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.077,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:88",
+    "source_document": "regolamento",
+    "source_number": "88",
+    "source_header": "Articolo 88 - Diritto di iniziativa",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.083,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:89",
+    "source_document": "regolamento",
+    "source_number": "89",
+    "source_header": "Articolo 89 - Interrogazione",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:90",
+    "source_document": "regolamento",
+    "source_number": "90",
+    "source_header": "Articolo 90 - Mozione",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:91",
+    "source_document": "regolamento",
+    "source_number": "91",
+    "source_header": "Articolo 91 - Proposta di delibera",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.083,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:92",
+    "source_document": "regolamento",
+    "source_number": "92",
+    "source_header": "Articolo 92 - Emendamento",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:93",
+    "source_document": "regolamento",
+    "source_number": "93",
+    "source_header": "Articolo 93 - Diritto di informazione, diritto di accesso e dovere di segretezza",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.125,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:94",
+    "source_document": "regolamento",
+    "source_number": "94",
+    "source_header": "Articolo 94 - Decadenza",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:95",
+    "source_document": "regolamento",
+    "source_number": "95",
+    "source_header": "Articolo 95 - Partecipazione alle sedute",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:96",
+    "source_document": "regolamento",
+    "source_number": "96",
+    "source_header": "Articolo 96 - Comunicazioni",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:97",
+    "source_document": "regolamento",
+    "source_number": "97",
+    "source_header": "Articolo 97 - Discussione e modalità di voto",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "elezione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.154,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:98",
+    "source_document": "regolamento",
+    "source_number": "98",
+    "source_header": "Articolo 98 - Esecutività delle deliberazioni",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:99",
+    "source_document": "regolamento",
+    "source_number": "99",
+    "source_header": "Articolo 99 - Verbale delle sedute",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo I - Senato accademico e Consiglio di Amministrazione - Commissioni miste",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Articolo 21 - Commissioni istruttorie del Senato accademico e del Consiglio di Amministrazione e Commissioni - scientifiche di area",
+    "target_title": "Titolo II - Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.8,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_subject",
+        "chapter_header_similarity"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione",
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "funzionamento"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.25,
+        "header_score": 0.0,
+        "chapter_header_score": 0.538
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:111",
+    "source_document": "regolamento",
+    "source_number": "111",
+    "source_header": "Articolo 111 - Validità delle riunioni e deliberazioni",
+    "source_title": "Titolo III - Organi collegiali",
+    "source_chapter": "Capo II - Commissioni scientifiche di area: composizione e funzionamento",
+    "target_article_id": "statuto:51",
+    "target_document": "statuto",
+    "target_number": "51",
+    "target_header": "Articolo 51 - Validità delle riunioni e delle deliberazioni",
+    "target_title": "Titolo VI - Disposizioni comuni, transitorie e finali",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.35,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_function",
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": true,
+        "functions": [
+          "funzionamento"
+        ],
+        "regulation_functions": [
+          "composizione",
+          "funzionamento"
+        ],
+        "statute_functions": [
+          "funzionamento"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.091
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:61",
+    "source_document": "regolamento",
+    "source_number": "61",
+    "source_header": "Articolo 61 - Incompatibilità",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo V - Disciplina per le elezioni delle rappresentanze studentesche",
+    "target_article_id": "statuto:50",
+    "target_document": "statuto",
+    "target_number": "50",
+    "target_header": "Articolo 50 - Incompatibilità",
+    "target_title": "Titolo VI - Disposizioni comuni, transitorie e finali",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.35,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_function",
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": true,
+        "functions": [
+          "incompatibilità"
+        ],
+        "regulation_functions": [
+          "elezione",
+          "incompatibilità"
+        ],
+        "statute_functions": [
+          "incompatibilità"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:71",
+    "source_document": "regolamento",
+    "source_number": "71",
+    "source_header": "Articolo 71 - Incompatibilità",
+    "source_title": "Titolo II - Disciplina elettorale",
+    "source_chapter": "Capo VI - Elezioni componenti Commissioni scientifiche di area",
+    "target_article_id": "statuto:50",
+    "target_document": "statuto",
+    "target_number": "50",
+    "target_header": "Articolo 50 - Incompatibilità",
+    "target_title": "Titolo VI - Disposizioni comuni, transitorie e finali",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.35,
+    "evidence": {
+      "matched_patterns": [
+        "same_main_function",
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": true,
+        "functions": [
+          "incompatibilità"
+        ],
+        "regulation_functions": [
+          "composizione",
+          "elezione",
+          "incompatibilità"
+        ],
+        "statute_functions": [
+          "incompatibilità"
+        ]
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:173",
+    "source_document": "regolamento",
+    "source_number": "173",
+    "source_header": "Articolo 173 - Disposizione transitoria",
+    "source_title": "Titolo VIII - Disposizioni transitorie e finali",
+    "source_chapter": "",
+    "target_article_id": "statuto:54",
+    "target_document": "statuto",
+    "target_number": "54",
+    "target_header": "Articolo 54 - Disposizione transitoria",
+    "target_title": "Titolo VI - Disposizioni comuni, transitorie e finali",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.667,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  }
+]

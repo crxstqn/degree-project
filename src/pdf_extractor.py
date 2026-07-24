@@ -34,9 +34,9 @@ def split_header_content(block):
             break
 
     if content_start is None:
-        return "-".join(lines), ""
+        return " - ".join(lines), ""
 
-    header = "-".join(lines[:content_start])
+    header = " - ".join(lines[:content_start])
     content = "\n".join(lines[content_start:])
 
     return header, content

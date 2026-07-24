@@ -4,6 +4,7 @@
 
 import json
 import re
+import csv
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
@@ -53,6 +54,50 @@ NORMATIVE_FUNCTIONS = {
     "competenze": ["competenze","funzioni","attribuzioni","responsabilità","poteri"],
     "organizzazione": ["organizzazione","organizzazione del","organizzazione della","organizzazione dei" ],
 }
+
+
+def export_merged_dataset_csv(relations, regulation_articles, statute_articles, output_filename="merged_dataset.csv"):
+    output_path = ROOT / "data" / "processed" / output_filename
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    articles_dict = {art["article_id"]: art for art in regulation_articles + statute_articles}
+
+    def get_node_and_text(article_id, specific_paragraph=None):
+        art = articles_dict.get(article_id)
+        if not art:
+            return article_id, ""
+
+        if specific_paragraph:
+            for p in art.get("paragraphs", []):
+                if p.get("paragraph") == specific_paragraph:
+                    node_id = p.get("node_id", f"{article_id}:{specific_paragraph}")
+                    content = p.get("text", "")
+                    return node_id, re.sub(r"\s+", " ", content).strip()
+
+        text = art.get("full_text", "")
+        return article_id, re.sub(r"\s+", " ", text).strip()
+
+    with open(output_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f, delimiter=";", quoting=csv.QUOTE_MINIMAL)
+        writer.writerow(["NODE_ID_A", "FRASE_A", "NODE_ID_B", "FRASE_B"])
+
+        for rel in relations:
+            node_a = rel["source_article_id"]
+            node_b = rel["target_article_id"]
+
+            comma_a = None
+            comma_b = None
+
+            # Estraiamo i riferimenti ai commi solo se la relazione è esplicita
+            if rel.get("relation_type") == "explicit_reference":
+                evidence = rel.get("evidence", {}).get("explicit_reference", {})
+                comma_a = evidence.get("source_paragraph")
+                comma_b = evidence.get("paragraph_number")
+
+            final_node_a, frase_a = get_node_and_text(node_a, comma_a)
+            final_node_b, frase_b = get_node_and_text(node_b, comma_b)
+
+            writer.writerow([final_node_a, frase_a, final_node_b, frase_b])
 
 def normalize_text(text):
     text = text.lower()
@@ -112,9 +157,21 @@ def group_by_article(records):
 
         paragraph_text = record.get("text")
         if paragraph_text:
+            start = len(grouped[article_id]["full_text"]) + 1
             grouped[article_id]["full_text"] += "\n" + paragraph_text
+            end = len(grouped[article_id]["full_text"])
+            grouped[article_id].setdefault("paragraph_offsets", []).append(
+                (start, end, record.get("paragraph"))
+            )
 
     return list(grouped.values())
+
+
+def find_paragraph_at_offset(article, offset):
+    for start, end, paragraph_number in article.get("paragraph_offsets", []):
+        if start <= offset < end:
+            return paragraph_number
+    return None
 
 
 def find_statute_article(statute_articles, number):
@@ -160,11 +217,13 @@ def explicit_reference_from_regulation_to_statute(reg_article, statute_articles)
         target = find_statute_article(statute_articles, article_number)
 
         if target:
+            source_paragraph = find_paragraph_at_offset(reg_article, match.start())
             references.append({
                 "target": target,
                 "article_number": article_number,
                 "paragraph_number": paragraph_number,
                 "surface": match.group(0).strip(), #la surface indica quale parte del testo ha generato la relazione
+                "source_paragraph": source_paragraph,
             })
     return references
 
@@ -351,6 +410,7 @@ def build_explicit_relation(reg_article, ref):
                 "surface": ref["surface"],
                 "article_number": ref["article_number"],
                 "paragraph_number": ref["paragraph_number"],
+                "source_paragraph": ref["source_paragraph"],
             },
             "supporting_patterns": supporting_patterns,
             "subjects": subject_match,
@@ -449,7 +509,7 @@ def deduplicate_relations(relations):
     return list(deduped.values())
 
 
-def build_relations(input_filename="processed_articles_unical.json", output_filename="candidate_relations_unical.json"):
+def build_relations(input_filename, output_filename):
     input_path = ROOT / "data" / "processed" / input_filename
     output_path = ROOT / "data" / "processed" / output_filename
 
@@ -491,5 +551,7 @@ def build_relations(input_filename="processed_articles_unical.json", output_file
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(relations, f, ensure_ascii=False, indent=2)
 
+    export_merged_dataset_csv(relations, regulation_articles, statute_articles, "merged_dataset.csv")
+
 if __name__ == "__main__":
-    build_relations()
+    build_relations("processed_articles_unical.json", "candidate_relations_unical.json")

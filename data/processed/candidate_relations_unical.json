@@ -21,7 +21,8 @@
       "explicit_reference": {
         "surface": "art. 8.1, comma 4, dello statuto",
         "article_number": "8.1",
-        "paragraph_number": "4"
+        "paragraph_number": "4",
+        "source_paragraph": "2"
       },
       "supporting_patterns": [],
       "subjects": {
@@ -67,7 +68,8 @@
       "explicit_reference": {
         "surface": "art. 2.4, comma 1, dello statuto",
         "article_number": "2.4",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -121,7 +123,8 @@
       "explicit_reference": {
         "surface": "art. 2.2, comma 1, lettera r), dello statuto",
         "article_number": "2.2",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -171,7 +174,8 @@
       "explicit_reference": {
         "surface": "art. 2.4,\ncomma 1, lettera f), dello statuto",
         "article_number": "2.4",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -225,7 +229,8 @@
       "explicit_reference": {
         "surface": "art. 2.4 dello statuto",
         "article_number": "2.4",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -279,7 +284,8 @@
       "explicit_reference": {
         "surface": "art. 7.2 dello statuto",
         "article_number": "7.2",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject"
@@ -334,7 +340,8 @@
       "explicit_reference": {
         "surface": "art. 7.1, comma 5,\ndello statuto",
         "article_number": "7.1",
-        "paragraph_number": "5"
+        "paragraph_number": "5",
+        "source_paragraph": "8"
       },
       "supporting_patterns": [],
       "subjects": {
@@ -384,7 +391,8 @@
       "explicit_reference": {
         "surface": "art. 2.5, comma 1, dello statuto",
         "article_number": "2.5",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -438,7 +446,8 @@
       "explicit_reference": {
         "surface": "art. 2.5 dello statuto",
         "article_number": "2.5",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -492,7 +501,8 @@
       "explicit_reference": {
         "surface": "art. 2.5, comma 3, lettere c) e d), dello statuto",
         "article_number": "2.5",
-        "paragraph_number": "3"
+        "paragraph_number": "3",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -549,7 +559,8 @@
       "explicit_reference": {
         "surface": "art. 7.3 dello statuto",
         "article_number": "7.3",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [],
       "subjects": {
@@ -598,7 +609,8 @@
       "explicit_reference": {
         "surface": "art. 2.5, comma 1, dello statuto",
         "article_number": "2.5",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -654,7 +666,8 @@
       "explicit_reference": {
         "surface": "art.\n2.8 dello statuto",
         "article_number": "2.8",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -708,7 +721,8 @@
       "explicit_reference": {
         "surface": "art. 2.8, comma 2, dello statuto",
         "article_number": "2.8",
-        "paragraph_number": "2"
+        "paragraph_number": "2",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -762,7 +776,8 @@
       "explicit_reference": {
         "surface": "art. 2.8, comma 8, dello statuto",
         "article_number": "2.8",
-        "paragraph_number": "8"
+        "paragraph_number": "8",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -818,7 +833,8 @@
       "explicit_reference": {
         "surface": "art. 2.9 dello statuto",
         "article_number": "2.9",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -872,7 +888,8 @@
       "explicit_reference": {
         "surface": "art. 2.10 dello statuto",
         "article_number": "2.10",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -926,7 +943,8 @@
       "explicit_reference": {
         "surface": "art. 2.10, comma 6, dello statuto",
         "article_number": "2.10",
-        "paragraph_number": "6"
+        "paragraph_number": "6",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -980,7 +998,8 @@
       "explicit_reference": {
         "surface": "art. 1.2, comma 5,\ndello statuto",
         "article_number": "1.2",
-        "paragraph_number": "5"
+        "paragraph_number": "5",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [],
       "subjects": {
@@ -1024,7 +1043,8 @@
       "explicit_reference": {
         "surface": "art. 2.11, comma 1, dello statuto",
         "article_number": "2.11",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1078,7 +1098,8 @@
       "explicit_reference": {
         "surface": "art. 2.12 dello statuto",
         "article_number": "2.12",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1131,7 +1152,8 @@
       "explicit_reference": {
         "surface": "art. 2.1 dello statuto",
         "article_number": "2.1",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -1179,7 +1201,8 @@
       "explicit_reference": {
         "surface": "art. 2.2, comma 2, dello statuto",
         "article_number": "2.2",
-        "paragraph_number": "2"
+        "paragraph_number": "2",
+        "source_paragraph": "3"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -1229,7 +1252,8 @@
       "explicit_reference": {
         "surface": "art. 2.6, comma 1, dello statuto",
         "article_number": "2.6",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "4"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -1282,7 +1306,8 @@
       "explicit_reference": {
         "surface": "art. 2.1 dello statuto",
         "article_number": "2.1",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "5"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -1330,7 +1355,8 @@
       "explicit_reference": {
         "surface": "art. 2.5, comma 3, lettera d), dello statuto",
         "article_number": "2.5",
-        "paragraph_number": "3"
+        "paragraph_number": "3",
+        "source_paragraph": "3"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -1380,7 +1406,8 @@
       "explicit_reference": {
         "surface": "art. 2.7, comma 3, dello statuto",
         "article_number": "2.7",
-        "paragraph_number": "3"
+        "paragraph_number": "3",
+        "source_paragraph": "4"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -1430,7 +1457,8 @@
       "explicit_reference": {
         "surface": "art. 7.2, comma 1, ultimo capoverso, dello statuto",
         "article_number": "7.2",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "2"
       },
       "supporting_patterns": [],
       "subjects": {
@@ -1481,7 +1509,8 @@
       "explicit_reference": {
         "surface": "art. 7.3, comma 2, dello statuto",
         "article_number": "7.3",
-        "paragraph_number": "2"
+        "paragraph_number": "2",
+        "source_paragraph": "7"
       },
       "supporting_patterns": [],
       "subjects": {
@@ -1527,7 +1556,8 @@
       "explicit_reference": {
         "surface": "art. 3.2 dello statuto",
         "article_number": "3.2",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "2"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1580,7 +1610,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 1, dello statuto",
         "article_number": "3.2",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1633,7 +1664,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 3, dello statuto",
         "article_number": "3.2",
-        "paragraph_number": "3"
+        "paragraph_number": "3",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1686,7 +1718,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 6, dello statuto",
         "article_number": "3.2",
-        "paragraph_number": "6"
+        "paragraph_number": "6",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1739,7 +1772,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 6, dello\nstatuto",
         "article_number": "3.2",
-        "paragraph_number": "6"
+        "paragraph_number": "6",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1792,7 +1826,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 8, dello statuto",
         "article_number": "3.2",
-        "paragraph_number": "8"
+        "paragraph_number": "8",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1845,7 +1880,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 7,\ndello statuto",
         "article_number": "3.2",
-        "paragraph_number": "7"
+        "paragraph_number": "7",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1898,7 +1934,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 6, ultimo capoverso, dello statuto",
         "article_number": "3.2",
-        "paragraph_number": "6"
+        "paragraph_number": "6",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -1951,7 +1988,8 @@
       "explicit_reference": {
         "surface": "art. 7.1 dello statuto",
         "article_number": "7.1",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "7"
       },
       "supporting_patterns": [],
       "subjects": {
@@ -1999,7 +2037,8 @@
       "explicit_reference": {
         "surface": "art. 3.3 dello statuto",
         "article_number": "3.3",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -2053,7 +2092,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 1,\ndello statuto",
         "article_number": "3.2",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -2103,7 +2143,8 @@
       "explicit_reference": {
         "surface": "art. 3.2, comma 1, dello statuto",
         "article_number": "3.2",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -2153,7 +2194,8 @@
       "explicit_reference": {
         "surface": "art. 3.1, comma 2, dello statuto",
         "article_number": "3.1",
-        "paragraph_number": "2"
+        "paragraph_number": "2",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -2199,7 +2241,8 @@
       "explicit_reference": {
         "surface": "art. 3.1 dello statuto",
         "article_number": "3.1",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -2247,7 +2290,8 @@
       "explicit_reference": {
         "surface": "art. 3.1 dello statuto",
         "article_number": "3.1",
-        "paragraph_number": null
+        "paragraph_number": null,
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -2295,7 +2339,8 @@
       "explicit_reference": {
         "surface": "art. 3.1, comma\n2, dello statuto",
         "article_number": "3.1",
-        "paragraph_number": "2"
+        "paragraph_number": "2",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -2343,7 +2388,8 @@
       "explicit_reference": {
         "surface": "art. 3.1, comma 2, dello\nstatuto",
         "article_number": "3.1",
-        "paragraph_number": "2"
+        "paragraph_number": "2",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_title_area"
@@ -2391,7 +2437,8 @@
       "explicit_reference": {
         "surface": "art. 3.8, comma 1, dello statuto",
         "article_number": "3.8",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -2445,7 +2492,8 @@
       "explicit_reference": {
         "surface": "art. 3.8, comma 4, dello statuto",
         "article_number": "3.8",
-        "paragraph_number": "4"
+        "paragraph_number": "4",
+        "source_paragraph": "3"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -2499,7 +2547,8 @@
       "explicit_reference": {
         "surface": "art. 2.2, comma 1, dello statuto",
         "article_number": "2.2",
-        "paragraph_number": "1"
+        "paragraph_number": "1",
+        "source_paragraph": "1"
       },
       "supporting_patterns": [
         "same_main_subject",
@@ -2532,38 +2581,339 @@
     }
   },
   {
-    "source_article_id": "regolamento:55",
+    "source_article_id": "regolamento:2",
     "source_document": "regolamento",
-    "source_number": "55",
-    "source_header": "Art. 55 - Istituzione e attivazione di Scuole di Specializzazione",
-    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "source_chapter": "CAPO IV – SCUOLE DI SPECIALIZZAZIONE",
-    "target_article_id": "statuto:3.5",
+    "source_number": "2",
+    "source_header": "Art. 2 - Coordinamento delle attività dei professori e dei ricercatori",
+    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
+    "source_chapter": "",
+    "target_article_id": "statuto:3.7",
     "target_document": "statuto",
-    "target_number": "3.5",
-    "target_header": "Art. 3.5 – Le Scuole di Specializzazione",
+    "target_number": "3.7",
+    "target_header": "Art. 3.7 – Impegno didattico dei professori e dei ricercatori",
     "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
     "target_chapter": "",
     "relation_type": "candidate_relation",
-    "confidence": 0.99,
+    "confidence": 0.15,
     "evidence": {
       "matched_patterns": [
-        "same_main_subject",
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.571,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:38",
+    "source_document": "regolamento",
+    "source_number": "38",
+    "source_header": "Art. 38 – Impegno didattico dei professori e dei ricercatori",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
+    "target_article_id": "statuto:3.7",
+    "target_document": "statuto",
+    "target_number": "3.7",
+    "target_header": "Art. 3.7 – Impegno didattico dei professori e dei ricercatori",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.5,
+        "header_score": 1.0,
+        "chapter_header_score": 0.111
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:39",
+    "source_document": "regolamento",
+    "source_number": "39",
+    "source_header": "Art. 39 - Strutture dell’Università",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I -STRUTTURE",
+    "target_article_id": "statuto:2.1",
+    "target_document": "statuto",
+    "target_number": "2.1",
+    "target_header": "Art. 2.1 – Organi dell’Università",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.5,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:5",
+    "source_document": "regolamento",
+    "source_number": "5",
+    "source_header": "Art. 5 – Personale universitario e ambiente di lavoro",
+    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
+    "source_chapter": "",
+    "target_article_id": "statuto:1.4",
+    "target_document": "statuto",
+    "target_number": "1.4",
+    "target_header": "Art. 1.4 – Personale universitario e ambiente di lavoro",
+    "target_title": "TITOLO I – PRINCIPI GENERALI",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.333,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:7",
+    "source_document": "regolamento",
+    "source_number": "7",
+    "source_header": "Art. 7 – Sistema di Gestione dei Documenti, dei Flussi Documentali e degli Archivi di Ateneo",
+    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
+    "source_chapter": "",
+    "target_article_id": "statuto:1.8",
+    "target_document": "statuto",
+    "target_number": "1.8",
+    "target_header": "Art. 1.8 – Sistema di Gestione dei Documenti, dei Flussi Documentali e degli Archivi di Ateneo",
+    "target_title": "TITOLO I – PRINCIPI GENERALI",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.333,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:77",
+    "source_document": "regolamento",
+    "source_number": "77",
+    "source_header": "Art. 77 – Norma finale",
+    "source_title": "TITOLO V – NORMA FINALE",
+    "source_chapter": "",
+    "target_article_id": "statuto:7.4",
+    "target_document": "statuto",
+    "target_number": "7.4",
+    "target_header": "Art. 7.4 – Norma finale",
+    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:39",
+    "source_document": "regolamento",
+    "source_number": "39",
+    "source_header": "Art. 39 - Strutture dell’Università",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I -STRUTTURE",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.2,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:8",
+    "source_document": "regolamento",
+    "source_number": "8",
+    "source_header": "Art. 8 - Organi dell’Università",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I – ORGANI DELL’UNIVERSITÀ",
+    "target_article_id": "statuto:3.1",
+    "target_document": "statuto",
+    "target_number": "3.1",
+    "target_header": "Art. 3.1 – Strutture dell’Università",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.35,
+    "evidence": {
+      "matched_patterns": [
+        "chapter_header_similarity",
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.5,
+        "header_score": 1.0,
+        "chapter_header_score": 0.5
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:56",
+    "source_document": "regolamento",
+    "source_number": "56",
+    "source_header": "Art. 56 - Istituzione e attivazione di Scuole Superiori e di Alta Formazione",
+    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO V – SCUOLE SUPERIORI E DI ALTA FORMAZIONE",
+    "target_article_id": "statuto:3.9",
+    "target_document": "statuto",
+    "target_number": "3.9",
+    "target_header": "Art. 3.9 – Scuole Superiori e di Alta Formazione",
+    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.4,
+    "evidence": {
+      "matched_patterns": [
         "chapter_header_similarity",
         "header_similarity",
         "same_title_area"
       ],
       "subjects": {
-        "matched": true,
-        "common_subjects": [
-          "scuole_specializzazione"
-        ],
-        "regulation_subjects": [
-          "scuole_specializzazione"
-        ],
-        "statute_subjects": [
-          "scuole_specializzazione"
-        ]
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
       },
       "functions": {
         "matched": false,
@@ -2575,8 +2925,48 @@
       },
       "structural": {
         "title_score": 1.0,
-        "header_score": 0.6,
-        "chapter_header_score": 1.0
+        "header_score": 0.714,
+        "chapter_header_score": 0.714
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:8",
+    "source_document": "regolamento",
+    "source_number": "8",
+    "source_header": "Art. 8 - Organi dell’Università",
+    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "source_chapter": "CAPO I – ORGANI DELL’UNIVERSITÀ",
+    "target_article_id": "statuto:2.1",
+    "target_document": "statuto",
+    "target_number": "2.1",
+    "target_header": "Art. 2.1 – Organi dell’Università",
+    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.4,
+    "evidence": {
+      "matched_patterns": [
+        "chapter_header_similarity",
+        "header_similarity",
+        "same_title_area"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 1.0,
+        "header_score": 1.0,
+        "chapter_header_score": 0.5
       }
     }
   },
@@ -3383,31 +3773,38 @@
     }
   },
   {
-    "source_article_id": "regolamento:56",
+    "source_article_id": "regolamento:55",
     "source_document": "regolamento",
-    "source_number": "56",
-    "source_header": "Art. 56 - Istituzione e attivazione di Scuole Superiori e di Alta Formazione",
+    "source_number": "55",
+    "source_header": "Art. 55 - Istituzione e attivazione di Scuole di Specializzazione",
     "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "source_chapter": "CAPO V – SCUOLE SUPERIORI E DI ALTA FORMAZIONE",
-    "target_article_id": "statuto:3.9",
+    "source_chapter": "CAPO IV – SCUOLE DI SPECIALIZZAZIONE",
+    "target_article_id": "statuto:3.5",
     "target_document": "statuto",
-    "target_number": "3.9",
-    "target_header": "Art. 3.9 – Scuole Superiori e di Alta Formazione",
+    "target_number": "3.5",
+    "target_header": "Art. 3.5 – Le Scuole di Specializzazione",
     "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
     "target_chapter": "",
     "relation_type": "candidate_relation",
-    "confidence": 0.4,
+    "confidence": 0.99,
     "evidence": {
       "matched_patterns": [
+        "same_main_subject",
         "chapter_header_similarity",
         "header_similarity",
         "same_title_area"
       ],
       "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
+        "matched": true,
+        "common_subjects": [
+          "scuole_specializzazione"
+        ],
+        "regulation_subjects": [
+          "scuole_specializzazione"
+        ],
+        "statute_subjects": [
+          "scuole_specializzazione"
+        ]
       },
       "functions": {
         "matched": false,
@@ -3419,356 +3816,8 @@
       },
       "structural": {
         "title_score": 1.0,
-        "header_score": 0.714,
-        "chapter_header_score": 0.714
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:8",
-    "source_document": "regolamento",
-    "source_number": "8",
-    "source_header": "Art. 8 - Organi dell’Università",
-    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
-    "source_chapter": "CAPO I – ORGANI DELL’UNIVERSITÀ",
-    "target_article_id": "statuto:2.1",
-    "target_document": "statuto",
-    "target_number": "2.1",
-    "target_header": "Art. 2.1 – Organi dell’Università",
-    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.4,
-    "evidence": {
-      "matched_patterns": [
-        "chapter_header_similarity",
-        "header_similarity",
-        "same_title_area"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 1.0,
-        "header_score": 1.0,
-        "chapter_header_score": 0.5
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:8",
-    "source_document": "regolamento",
-    "source_number": "8",
-    "source_header": "Art. 8 - Organi dell’Università",
-    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
-    "source_chapter": "CAPO I – ORGANI DELL’UNIVERSITÀ",
-    "target_article_id": "statuto:3.1",
-    "target_document": "statuto",
-    "target_number": "3.1",
-    "target_header": "Art. 3.1 – Strutture dell’Università",
-    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.35,
-    "evidence": {
-      "matched_patterns": [
-        "chapter_header_similarity",
-        "header_similarity"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 0.5,
-        "header_score": 1.0,
-        "chapter_header_score": 0.5
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:39",
-    "source_document": "regolamento",
-    "source_number": "39",
-    "source_header": "Art. 39 - Strutture dell’Università",
-    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "source_chapter": "CAPO I -STRUTTURE",
-    "target_article_id": "statuto:3.1",
-    "target_document": "statuto",
-    "target_number": "3.1",
-    "target_header": "Art. 3.1 – Strutture dell’Università",
-    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.2,
-    "evidence": {
-      "matched_patterns": [
-        "header_similarity",
-        "same_title_area"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 1.0,
-        "header_score": 1.0,
-        "chapter_header_score": 0.0
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:2",
-    "source_document": "regolamento",
-    "source_number": "2",
-    "source_header": "Art. 2 - Coordinamento delle attività dei professori e dei ricercatori",
-    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
-    "source_chapter": "",
-    "target_article_id": "statuto:3.7",
-    "target_document": "statuto",
-    "target_number": "3.7",
-    "target_header": "Art. 3.7 – Impegno didattico dei professori e dei ricercatori",
-    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.15,
-    "evidence": {
-      "matched_patterns": [
-        "header_similarity"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 0.0,
-        "header_score": 0.571,
-        "chapter_header_score": 0.0
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:38",
-    "source_document": "regolamento",
-    "source_number": "38",
-    "source_header": "Art. 38 – Impegno didattico dei professori e dei ricercatori",
-    "source_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
-    "source_chapter": "CAPO XI – NORME SULLA INELEGGIBILITÀ E INCOMPATIBILITÀ",
-    "target_article_id": "statuto:3.7",
-    "target_document": "statuto",
-    "target_number": "3.7",
-    "target_header": "Art. 3.7 – Impegno didattico dei professori e dei ricercatori",
-    "target_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.15,
-    "evidence": {
-      "matched_patterns": [
-        "header_similarity"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [
-          "incompatibilità"
-        ],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 0.5,
-        "header_score": 1.0,
-        "chapter_header_score": 0.111
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:39",
-    "source_document": "regolamento",
-    "source_number": "39",
-    "source_header": "Art. 39 - Strutture dell’Università",
-    "source_title": "TITOLO III – STRUTTURE DELL’UNIVERSITÀ",
-    "source_chapter": "CAPO I -STRUTTURE",
-    "target_article_id": "statuto:2.1",
-    "target_document": "statuto",
-    "target_number": "2.1",
-    "target_header": "Art. 2.1 – Organi dell’Università",
-    "target_title": "TITOLO II – ORGANI DELL’UNIVERSITÀ",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.15,
-    "evidence": {
-      "matched_patterns": [
-        "header_similarity"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 0.5,
-        "header_score": 1.0,
-        "chapter_header_score": 0.0
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:5",
-    "source_document": "regolamento",
-    "source_number": "5",
-    "source_header": "Art. 5 – Personale universitario e ambiente di lavoro",
-    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
-    "source_chapter": "",
-    "target_article_id": "statuto:1.4",
-    "target_document": "statuto",
-    "target_number": "1.4",
-    "target_header": "Art. 1.4 – Personale universitario e ambiente di lavoro",
-    "target_title": "TITOLO I – PRINCIPI GENERALI",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.15,
-    "evidence": {
-      "matched_patterns": [
-        "header_similarity"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 0.333,
-        "header_score": 1.0,
-        "chapter_header_score": 0.0
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:7",
-    "source_document": "regolamento",
-    "source_number": "7",
-    "source_header": "Art. 7 – Sistema di Gestione dei Documenti, dei Flussi Documentali e degli Archivi di Ateneo",
-    "source_title": "TITOLO I – NORME DI ATTUAZIONE DEI PRINCIPI GENERALI DELLO STATUTO",
-    "source_chapter": "",
-    "target_article_id": "statuto:1.8",
-    "target_document": "statuto",
-    "target_number": "1.8",
-    "target_header": "Art. 1.8 – Sistema di Gestione dei Documenti, dei Flussi Documentali e degli Archivi di Ateneo",
-    "target_title": "TITOLO I – PRINCIPI GENERALI",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.15,
-    "evidence": {
-      "matched_patterns": [
-        "header_similarity"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 0.333,
-        "header_score": 1.0,
-        "chapter_header_score": 0.0
-      }
-    }
-  },
-  {
-    "source_article_id": "regolamento:77",
-    "source_document": "regolamento",
-    "source_number": "77",
-    "source_header": "Art. 77 – Norma finale",
-    "source_title": "TITOLO V – NORMA FINALE",
-    "source_chapter": "",
-    "target_article_id": "statuto:7.4",
-    "target_document": "statuto",
-    "target_number": "7.4",
-    "target_header": "Art. 7.4 – Norma finale",
-    "target_title": "TITOLO VII – NORME FINALI E COMUNI",
-    "target_chapter": "",
-    "relation_type": "candidate_relation",
-    "confidence": 0.15,
-    "evidence": {
-      "matched_patterns": [
-        "header_similarity"
-      ],
-      "subjects": {
-        "matched": false,
-        "common_subjects": [],
-        "regulation_subjects": [],
-        "statute_subjects": []
-      },
-      "functions": {
-        "matched": false,
-        "functions": [],
-        "regulation_functions": [],
-        "statute_functions": []
-      },
-      "structural": {
-        "title_score": 0.0,
-        "header_score": 1.0,
-        "chapter_header_score": 0.0
+        "header_score": 0.6,
+        "chapter_header_score": 1.0
       }
     }
   }

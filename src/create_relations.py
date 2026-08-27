@@ -509,9 +509,10 @@ def deduplicate_relations(relations):
     return list(deduped.values())
 
 
-def build_relations(input_filename, output_filename):
-    input_path = ROOT / "data" / "processed" / input_filename
-    output_path = ROOT / "data" / "processed" / output_filename
+def build_relations():
+    university = input("inserisci il nome delle università disponibili (unical, unipi, unimi, polito): ").strip()
+    input_path = ROOT / "data" / "processed" / f"processed_articles_{university}.json"
+    output_path = ROOT / "data" / "processed" / f"candidate_relations_{university}.json"
 
     with open(input_path, "r", encoding="utf-8") as f:
         records = json.load(f)
@@ -554,4 +555,4 @@ def build_relations(input_filename, output_filename):
     export_merged_dataset_csv(relations, regulation_articles, statute_articles, "merged_dataset.csv")
 
 if __name__ == "__main__":
-    build_relations("processed_articles_unical.json", "candidate_relations_unical.json")
+    build_relations()

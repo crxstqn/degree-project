@@ -101,9 +101,10 @@ def remove_duplicates(articles):
     return list(seen.values())
 
 def process_documents():
+    university = input("inserisci il nome delle università disponibili (unical, unipi, unimi, polito): ").strip()
     paths = {
-        "statuto":     ROOT / "data" / "raw" / "statuto-unical.pdf",
-        "regolamento": ROOT / "data" / "raw" / "regolamento-unical.pdf"
+        "statuto":     ROOT / "data" / "raw" / f"statuto-{university}.pdf",
+        "regolamento": ROOT / "data" / "raw" / f"regolamento-{university}.pdf",
     }
 
     output_dir = ROOT / "data" / "processed"
@@ -115,7 +116,7 @@ def process_documents():
         all_articles.extend(articles)
 
     all_articles = remove_duplicates(all_articles)
-    output_json = output_dir / "processed_articles_unical.json"
+    output_json = output_dir / f"processed_articles_{university}.json"
     with open(output_json, "w", encoding="utf-8") as f:
        json.dump(all_articles, f, ensure_ascii=False, indent=2)
 

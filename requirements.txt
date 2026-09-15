@@ -1,3 +1,5 @@
 pdfplumber
 clingo
 pandas
+dotenv
+openai

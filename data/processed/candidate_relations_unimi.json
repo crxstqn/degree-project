@@ -1,0 +1,3943 @@
+[
+  {
+    "source_article_id": "regolamento:10",
+    "source_document": "regolamento",
+    "source_number": "10",
+    "source_header": "Articolo 10 - Comitato unico di garanzia per le pari opportunità, la valorizzazione - del benessere di chi lavora e contro le discriminazioni",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:34",
+    "target_document": "statuto",
+    "target_number": "34",
+    "target_header": "Art. 34 - Comitato unico di garanzia per le pari opportunità, - la valorizzazione del benessere di chi lavora e contro le discriminazioni",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo\n34 dello statuto",
+        "article_number": "34",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "comitato_unico_garanzia"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:12",
+    "source_document": "regolamento",
+    "source_number": "12",
+    "source_header": "Articolo 12 - Incompatibilità",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:63",
+    "target_document": "statuto",
+    "target_number": "63",
+    "target_header": "Art. 63 Incompatibilità",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 63 dello statuto",
+        "article_number": "63",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_function"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": true,
+        "functions": [
+          "incompatibilità"
+        ],
+        "regulation_functions": [
+          "incompatibilità"
+        ],
+        "statute_functions": [
+          "incompatibilità"
+        ]
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Articolo 13 - Dipartimenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Art. 22 - Regolamenti dei Dipartimenti",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 22 dello statuto",
+        "article_number": "22",
+        "paragraph_number": null,
+        "source_paragraph": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Articolo 13 - Dipartimenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:36",
+    "target_document": "statuto",
+    "target_number": "36",
+    "target_header": "Art. 36 - Funzioni e competenze del Dipartimento",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 36 dello\nstatuto",
+        "article_number": "36",
+        "paragraph_number": null,
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": [
+          "competenze"
+        ]
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Articolo 13 - Dipartimenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:37",
+    "target_document": "statuto",
+    "target_number": "37",
+    "target_header": "Art. 37 - Costituzione e personale del Dipartimento",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 37 dello statuto",
+        "article_number": "37",
+        "paragraph_number": null,
+        "source_paragraph": "5"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Articolo 13 - Dipartimenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Art. 38 - Organi del Dipartimento",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 38 dello statuto",
+        "article_number": "38",
+        "paragraph_number": null,
+        "source_paragraph": "7"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Articolo 13 - Dipartimenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Art. 39 - Competenze didattiche e gestione dei Corsi di studio",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 39\ndello statuto",
+        "article_number": "39",
+        "paragraph_number": null,
+        "source_paragraph": "15"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "corsi_studio"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Articolo 13 - Dipartimenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:40",
+    "target_document": "statuto",
+    "target_number": "40",
+    "target_header": "Art. 40 - Facoltà e Scuole",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 40 dello statuto",
+        "article_number": "40",
+        "paragraph_number": null,
+        "source_paragraph": "15"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Articolo 13 - Dipartimenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:64",
+    "target_document": "statuto",
+    "target_number": "64",
+    "target_header": "Art. 64 - Funzionamento degli organi",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 64 dello statuto",
+        "article_number": "64",
+        "paragraph_number": null,
+        "source_paragraph": "12"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:14",
+    "source_document": "regolamento",
+    "source_number": "14",
+    "source_header": "Articolo 14 - Commissioni paritetiche docenti‐studenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Art. 39 - Competenze didattiche e gestione dei Corsi di studio",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 39 dello statuto",
+        "article_number": "39",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "corsi_studio"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:15",
+    "source_document": "regolamento",
+    "source_number": "15",
+    "source_header": "Articolo 15 - Collegi didattici",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Art. 39 - Competenze didattiche e gestione dei Corsi di studio",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 39 dello statuto",
+        "article_number": "39",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "corsi_studio"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:16",
+    "source_document": "regolamento",
+    "source_number": "16",
+    "source_header": "Articolo 16 - Facoltà e Scuole",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:23",
+    "target_document": "statuto",
+    "target_number": "23",
+    "target_header": "Art. 23 - Regolamenti delle Facoltà e delle Scuole",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 23 dello stesso statuto",
+        "article_number": "23",
+        "paragraph_number": null,
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.75,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:16",
+    "source_document": "regolamento",
+    "source_number": "16",
+    "source_header": "Articolo 16 - Facoltà e Scuole",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:37",
+    "target_document": "statuto",
+    "target_number": "37",
+    "target_header": "Art. 37 - Costituzione e personale del Dipartimento",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 37 dello statuto",
+        "article_number": "37",
+        "paragraph_number": null,
+        "source_paragraph": "9"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.167,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:16",
+    "source_document": "regolamento",
+    "source_number": "16",
+    "source_header": "Articolo 16 - Facoltà e Scuole",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Art. 38 - Organi del Dipartimento",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo\n38 dello statuto",
+        "article_number": "38",
+        "paragraph_number": null,
+        "source_paragraph": "6"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:16",
+    "source_document": "regolamento",
+    "source_number": "16",
+    "source_header": "Articolo 16 - Facoltà e Scuole",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:40",
+    "target_document": "statuto",
+    "target_number": "40",
+    "target_header": "Art. 40 - Facoltà e Scuole",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 40 dello\nstatuto",
+        "article_number": "40",
+        "paragraph_number": null,
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:17",
+    "source_document": "regolamento",
+    "source_number": "17",
+    "source_header": "Articolo 17 - Dottorato di ricerca",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:41",
+    "target_document": "statuto",
+    "target_number": "41",
+    "target_header": "Art. 41 - Dottorato di ricerca",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 41\ndello statuto",
+        "article_number": "41",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "scuole_dottorato"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:18",
+    "source_document": "regolamento",
+    "source_number": "18",
+    "source_header": "Articolo 18 - Scuole di specializzazione",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:42",
+    "target_document": "statuto",
+    "target_number": "42",
+    "target_header": "Art. 42 - Scuole di specializzazione",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 42 dello statuto",
+        "article_number": "42",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "scuole_specializzazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:19",
+    "source_document": "regolamento",
+    "source_number": "19",
+    "source_header": "Articolo 19 - Centri interdipartimentali di ricerca",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:47",
+    "target_document": "statuto",
+    "target_number": "47",
+    "target_header": "Art. 47 - Centri dell’Ateneo",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 47 dello stesso statuto",
+        "article_number": "47",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:19",
+    "source_document": "regolamento",
+    "source_number": "19",
+    "source_header": "Articolo 19 - Centri interdipartimentali di ricerca",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:48",
+    "target_document": "statuto",
+    "target_number": "48",
+    "target_header": "Art. 48 - Centri interdipartimentali di ricerca",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 48 dello statuto",
+        "article_number": "48",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:2",
+    "source_document": "regolamento",
+    "source_number": "2",
+    "source_header": "Articolo 2 - Rettore",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Art. 25 - Rettore",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 25 dello\nstatuto",
+        "article_number": "25",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:20",
+    "source_document": "regolamento",
+    "source_number": "20",
+    "source_header": "Articolo 20 - Centri funzionali",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:47",
+    "target_document": "statuto",
+    "target_number": "47",
+    "target_header": "Art. 47 - Centri dell’Ateneo",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 47 dello\nstesso statuto",
+        "article_number": "47",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:20",
+    "source_document": "regolamento",
+    "source_number": "20",
+    "source_header": "Articolo 20 - Centri funzionali",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:49",
+    "target_document": "statuto",
+    "target_number": "49",
+    "target_header": "Art. 49 - Centri funzionali",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 49 dello statuto",
+        "article_number": "49",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:22",
+    "source_document": "regolamento",
+    "source_number": "22",
+    "source_header": "Articolo 22 - Centri di ricerca convenzionati",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:47",
+    "target_document": "statuto",
+    "target_number": "47",
+    "target_header": "Art. 47 - Centri dell’Ateneo",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 47 dello statuto",
+        "article_number": "47",
+        "paragraph_number": null,
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:22",
+    "source_document": "regolamento",
+    "source_number": "22",
+    "source_header": "Articolo 22 - Centri di ricerca convenzionati",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:51",
+    "target_document": "statuto",
+    "target_number": "51",
+    "target_header": "Art. 51 - Centri di ricerca convenzionati",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 51 dello statuto",
+        "article_number": "51",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:23",
+    "source_document": "regolamento",
+    "source_number": "23",
+    "source_header": "Articolo 23 - Centri interuniversitari di ricerca e di servizi",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:53",
+    "target_document": "statuto",
+    "target_number": "53",
+    "target_header": "Art. 53 - Centri e consorzi interuniversitari",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 53 dello statuto",
+        "article_number": "53",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.333,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:24",
+    "source_document": "regolamento",
+    "source_number": "24",
+    "source_header": "Articolo 24 - Consorzi interuniversitari e altre forme di partecipazione",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:53",
+    "target_document": "statuto",
+    "target_number": "53",
+    "target_header": "Art. 53 - Centri e consorzi interuniversitari",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 53\ndello statuto",
+        "article_number": "53",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.286,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:26",
+    "source_document": "regolamento",
+    "source_number": "26",
+    "source_header": "Articolo 26 - Sistema bibliotecario di Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:54",
+    "target_document": "statuto",
+    "target_number": "54",
+    "target_header": "Art. 54 - Sistema bibliotecario d'Ateneo",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 54 dello statuto",
+        "article_number": "54",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.5,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:28",
+    "source_document": "regolamento",
+    "source_number": "28",
+    "source_header": "Articolo 28 - Elezione del Rettore",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Art. 25 - Rettore",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 25 dello statuto",
+        "article_number": "25",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "rettore"
+        ],
+        "regulation_subjects": [
+          "rettore"
+        ],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:28",
+    "source_document": "regolamento",
+    "source_number": "28",
+    "source_header": "Articolo 28 - Elezione del Rettore",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:63",
+    "target_document": "statuto",
+    "target_number": "63",
+    "target_header": "Art. 63 Incompatibilità",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 63 dello statuto",
+        "article_number": "63",
+        "paragraph_number": null,
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "rettore"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": [
+          "incompatibilità"
+        ]
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:29",
+    "source_document": "regolamento",
+    "source_number": "29",
+    "source_header": "Articolo 29 - Elezione dei Direttori di Dipartimento e dei rappresentanti dei - professori di prima fascia, di seconda fascia e dei ricercatori - nel Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:26",
+    "target_document": "statuto",
+    "target_number": "26",
+    "target_header": "Art. 26 - Senato accademico",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo\n26 dello statuto",
+        "article_number": "26",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "dipartimento",
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.071,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:29",
+    "source_document": "regolamento",
+    "source_number": "29",
+    "source_header": "Articolo 29 - Elezione dei Direttori di Dipartimento e dei rappresentanti dei - professori di prima fascia, di seconda fascia e dei ricercatori - nel Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:62",
+    "target_document": "statuto",
+    "target_number": "62",
+    "target_header": "Art. 62 Designazioni elettive",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 62 dello statuto",
+        "article_number": "62",
+        "paragraph_number": null,
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "dipartimento",
+          "senato_accademico"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": [
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:3",
+    "source_document": "regolamento",
+    "source_number": "3",
+    "source_header": "Articolo 3 - Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Art. 25 - Rettore",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 25 dello statuto",
+        "article_number": "25",
+        "paragraph_number": null,
+        "source_paragraph": "5"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:3",
+    "source_document": "regolamento",
+    "source_number": "3",
+    "source_header": "Articolo 3 - Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:26",
+    "target_document": "statuto",
+    "target_number": "26",
+    "target_header": "Art. 26 - Senato accademico",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 26 dello statuto",
+        "article_number": "26",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:30",
+    "source_document": "regolamento",
+    "source_number": "30",
+    "source_header": "Articolo 30 - Elezione dei rappresentanti del personale tecnico e amministrativo nel - Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:26",
+    "target_document": "statuto",
+    "target_number": "26",
+    "target_header": "Art. 26 - Senato accademico",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 26, comma 2 ‐ lettera\nf), dello statuto",
+        "article_number": "26",
+        "paragraph_number": "2",
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.1,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:30",
+    "source_document": "regolamento",
+    "source_number": "30",
+    "source_header": "Articolo 30 - Elezione dei rappresentanti del personale tecnico e amministrativo nel - Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:62",
+    "target_document": "statuto",
+    "target_number": "62",
+    "target_header": "Art. 62 Designazioni elettive",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 62 dello stesso statuto",
+        "article_number": "62",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": [
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:31",
+    "source_document": "regolamento",
+    "source_number": "31",
+    "source_header": "Articolo 31 - Elezione del rappresentante dei dottorandi di ricerca - nel Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:26",
+    "target_document": "statuto",
+    "target_number": "26",
+    "target_header": "Art. 26 - Senato accademico",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 26, comma 2,\nlettera e), dello statuto",
+        "article_number": "26",
+        "paragraph_number": "2",
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "senato_accademico"
+        ],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.111,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:31",
+    "source_document": "regolamento",
+    "source_number": "31",
+    "source_header": "Articolo 31 - Elezione del rappresentante dei dottorandi di ricerca - nel Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:62",
+    "target_document": "statuto",
+    "target_number": "62",
+    "target_header": "Art. 62 Designazioni elettive",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 62 dello stesso statuto",
+        "article_number": "62",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "senato_accademico"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": [
+          "nomina"
+        ]
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:32",
+    "source_document": "regolamento",
+    "source_number": "32",
+    "source_header": "Articolo 32 - Designazione dei componenti il Consiglio di amministrazione",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:27",
+    "target_document": "statuto",
+    "target_number": "27",
+    "target_header": "Art. 27 - Consiglio di amministrazione",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 27 dello statuto",
+        "article_number": "27",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "regulation_subjects": [
+          "consiglio_amministrazione"
+        ],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.333,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:33",
+    "source_document": "regolamento",
+    "source_number": "33",
+    "source_header": "Articolo 33 - Elezione dei rappresentanti degli studenti - negli Organi di governo, nei Consigli di Dipartimento e nei - Comitati di direzione delle Facoltà e Scuole",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:30",
+    "target_document": "statuto",
+    "target_number": "30",
+    "target_header": "Art. 30 - Conferenza degli studenti",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo\n30 dello statuto",
+        "article_number": "30",
+        "paragraph_number": null,
+        "source_paragraph": "41"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.118,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:33",
+    "source_document": "regolamento",
+    "source_number": "33",
+    "source_header": "Articolo 33 - Elezione dei rappresentanti degli studenti - negli Organi di governo, nei Consigli di Dipartimento e nei - Comitati di direzione delle Facoltà e Scuole",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:39",
+    "target_document": "statuto",
+    "target_number": "39",
+    "target_header": "Art. 39 - Competenze didattiche e gestione dei Corsi di studio",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art.\n39 dello statuto",
+        "article_number": "39",
+        "paragraph_number": null,
+        "source_paragraph": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "corsi_studio"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "composizione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.143,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:34",
+    "source_document": "regolamento",
+    "source_number": "34",
+    "source_header": "Art. 34 - Organico del personale in servizio presso l’Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Art. 25 - Rettore",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 25, comma 1 lettera a), dello\nstatuto",
+        "article_number": "25",
+        "paragraph_number": "1",
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:34",
+    "source_document": "regolamento",
+    "source_number": "34",
+    "source_header": "Art. 34 - Organico del personale in servizio presso l’Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:37",
+    "target_document": "statuto",
+    "target_number": "37",
+    "target_header": "Art. 37 - Costituzione e personale del Dipartimento",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 37 dello statuto",
+        "article_number": "37",
+        "paragraph_number": null,
+        "source_paragraph": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.222,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:35",
+    "source_document": "regolamento",
+    "source_number": "35",
+    "source_header": "Articolo 35 - Reclutamento dei professori di ruolo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:17",
+    "target_document": "statuto",
+    "target_number": "17",
+    "target_header": "Art. 17 - Regolamento per la chiamata dei professori",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 17 dello statuto",
+        "article_number": "17",
+        "paragraph_number": null,
+        "source_paragraph": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.286,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:35",
+    "source_document": "regolamento",
+    "source_number": "35",
+    "source_header": "Articolo 35 - Reclutamento dei professori di ruolo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:18",
+    "target_document": "statuto",
+    "target_number": "18",
+    "target_header": "Art. 18 - Regolamento sui doveri accademici di professori e ricercatori",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 18 dello statuto",
+        "article_number": "18",
+        "paragraph_number": null,
+        "source_paragraph": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.222,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:36",
+    "source_document": "regolamento",
+    "source_number": "36",
+    "source_header": "Articolo 36 - Ricercatori a tempo determinato",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:18",
+    "target_document": "statuto",
+    "target_number": "18",
+    "target_header": "Art. 18 - Regolamento sui doveri accademici di professori e ricercatori",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 18 dello\nstatuto",
+        "article_number": "18",
+        "paragraph_number": null,
+        "source_paragraph": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:36",
+    "source_document": "regolamento",
+    "source_number": "36",
+    "source_header": "Articolo 36 - Ricercatori a tempo determinato",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:19",
+    "target_document": "statuto",
+    "target_number": "19",
+    "target_header": "Art. 19 - Regolamento per il conferimento di contratti di ricercatore a tempo determinato",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 19 dello\nstatuto",
+        "article_number": "19",
+        "paragraph_number": null,
+        "source_paragraph": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.333,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Articolo 37 - Posizione e doveri dei professori e dei ricercatori",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:17",
+    "target_document": "statuto",
+    "target_number": "17",
+    "target_header": "Art. 17 - Regolamento per la chiamata dei professori",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 17 dello statuto",
+        "article_number": "17",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.25,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Articolo 37 - Posizione e doveri dei professori e dei ricercatori",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:18",
+    "target_document": "statuto",
+    "target_number": "18",
+    "target_header": "Art. 18 - Regolamento sui doveri accademici di professori e ricercatori",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 18 dello statuto",
+        "article_number": "18",
+        "paragraph_number": null,
+        "source_paragraph": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.5,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Articolo 37 - Posizione e doveri dei professori e dei ricercatori",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:19",
+    "target_document": "statuto",
+    "target_number": "19",
+    "target_header": "Art. 19 - Regolamento per il conferimento di contratti di ricercatore a tempo determinato",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 19 dello statuto",
+        "article_number": "19",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Articolo 37 - Posizione e doveri dei professori e dei ricercatori",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:26",
+    "target_document": "statuto",
+    "target_number": "26",
+    "target_header": "Art. 26 - Senato accademico",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 26, comma 4, dello statuto",
+        "article_number": "26",
+        "paragraph_number": "4",
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:37",
+    "source_document": "regolamento",
+    "source_number": "37",
+    "source_header": "Articolo 37 - Posizione e doveri dei professori e dei ricercatori",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:33",
+    "target_document": "statuto",
+    "target_number": "33",
+    "target_header": "Art. 33 - Collegio di disciplina",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 33 dello statuto",
+        "article_number": "33",
+        "paragraph_number": null,
+        "source_paragraph": "6"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "collegio_disciplina"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:38",
+    "source_document": "regolamento",
+    "source_number": "38",
+    "source_header": "Articolo 38 - Insegnamenti attribuiti per affidamento a professori e ricercatori",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Art. 21 - Regolamento per il conferimento di contratti per attività di insegnamento",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 21 dello statuto",
+        "article_number": "21",
+        "paragraph_number": null,
+        "source_paragraph": "9"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.077,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:4",
+    "source_document": "regolamento",
+    "source_number": "4",
+    "source_header": "Articolo 4 - Consiglio di amministrazione",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Art. 25 - Rettore",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 25 dello statuto",
+        "article_number": "25",
+        "paragraph_number": null,
+        "source_paragraph": "5"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:4",
+    "source_document": "regolamento",
+    "source_number": "4",
+    "source_header": "Articolo 4 - Consiglio di amministrazione",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:27",
+    "target_document": "statuto",
+    "target_number": "27",
+    "target_header": "Art. 27 - Consiglio di amministrazione",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 27 dello statuto",
+        "article_number": "27",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:40",
+    "source_document": "regolamento",
+    "source_number": "40",
+    "source_header": "Articolo 40 - Mobilità interna all’Ateneo dei docenti di ruolo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:37",
+    "target_document": "statuto",
+    "target_number": "37",
+    "target_header": "Art. 37 - Costituzione e personale del Dipartimento",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 37, comma 7, dello statuto",
+        "article_number": "37",
+        "paragraph_number": "7",
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:42",
+    "source_document": "regolamento",
+    "source_number": "42",
+    "source_header": "Articolo 42 - Docenti a contratto",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:21",
+    "target_document": "statuto",
+    "target_number": "21",
+    "target_header": "Art. 21 - Regolamento per il conferimento di contratti per attività di insegnamento",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 21 dello statuto",
+        "article_number": "21",
+        "paragraph_number": null,
+        "source_paragraph": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:43",
+    "source_document": "regolamento",
+    "source_number": "43",
+    "source_header": "Articolo 43 - Assegni per lo svolgimento di attività di ricerca",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:20",
+    "target_document": "statuto",
+    "target_number": "20",
+    "target_header": "Art. 20 - Regolamento per il conferimento di assegni per lo svolgimento di attività di ricerca",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 20 dello statuto",
+        "article_number": "20",
+        "paragraph_number": null,
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:47",
+    "source_document": "regolamento",
+    "source_number": "47",
+    "source_header": "Articolo 47 - Organizzazione amministrativa e tecnica",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Art. 25 - Rettore",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 25, comma 1 lettera a), dello statuto",
+        "article_number": "25",
+        "paragraph_number": "1",
+        "source_paragraph": "5"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:47",
+    "source_document": "regolamento",
+    "source_number": "47",
+    "source_header": "Articolo 47 - Organizzazione amministrativa e tecnica",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:57",
+    "target_document": "statuto",
+    "target_number": "57",
+    "target_header": "Art. 57 - Organizzazione e funzioni dell’Amministrazione",
+    "target_title": "TITOLO VI - Organizzazione amministrativa e del personale",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 57 dello statuto",
+        "article_number": "57",
+        "paragraph_number": null,
+        "source_paragraph": "5"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": [
+          "competenze"
+        ]
+      },
+      "structural": {
+        "title_score": 0.029,
+        "header_score": 0.167,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:47",
+    "source_document": "regolamento",
+    "source_number": "47",
+    "source_header": "Articolo 47 - Organizzazione amministrativa e tecnica",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:60",
+    "target_document": "statuto",
+    "target_number": "60",
+    "target_header": "Art. 60 - Organico del personale tecnico e amministrativo",
+    "target_title": "TITOLO VI - Organizzazione amministrativa e del personale",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 60 dello statuto",
+        "article_number": "60",
+        "paragraph_number": null,
+        "source_paragraph": "6"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.029,
+        "header_score": 0.143,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:49",
+    "source_document": "regolamento",
+    "source_number": "49",
+    "source_header": "Articolo 49 - Carriera universitaria",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:16",
+    "target_document": "statuto",
+    "target_number": "16",
+    "target_header": "Art. 16 - Regolamento didattico d'Ateneo",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 16 dello statuto",
+        "article_number": "16",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:5",
+    "source_document": "regolamento",
+    "source_number": "5",
+    "source_header": "Articolo 5 - Conferenza degli studenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:30",
+    "target_document": "statuto",
+    "target_number": "30",
+    "target_header": "Art. 30 - Conferenza degli studenti",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 30\ndello statuto",
+        "article_number": "30",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:52",
+    "source_document": "regolamento",
+    "source_number": "52",
+    "source_header": "Articolo 52 - Infrazioni e sanzioni disciplinari",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:11",
+    "target_document": "statuto",
+    "target_number": "11",
+    "target_header": "Art. 11 - Principi di comportamento e Codice etico",
+    "target_title": "TITOLO I - Norme generali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 11\ndello statuto",
+        "article_number": "11",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.031,
+        "header_score": 0.143,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:53",
+    "source_document": "regolamento",
+    "source_number": "53",
+    "source_header": "Articolo 53 - Attività su contratti e convenzioni",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:15",
+    "target_document": "statuto",
+    "target_number": "15",
+    "target_header": "Art. 15 - Regolamento d'Ateneo per l'amministrazione, la finanza e la contabilità",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 15 dello statuto",
+        "article_number": "15",
+        "paragraph_number": null,
+        "source_paragraph": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.077,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:54",
+    "source_document": "regolamento",
+    "source_number": "54",
+    "source_header": "Articolo 54 - Invenzioni e brevetti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:15",
+    "target_document": "statuto",
+    "target_number": "15",
+    "target_header": "Art. 15 - Regolamento d'Ateneo per l'amministrazione, la finanza e la contabilità",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 15 dello statuto",
+        "article_number": "15",
+        "paragraph_number": null,
+        "source_paragraph": "9"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.1,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:56",
+    "source_document": "regolamento",
+    "source_number": "56",
+    "source_header": "Articolo 56 - Uso degli spazi universitari",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:10",
+    "target_document": "statuto",
+    "target_number": "10",
+    "target_header": "Art. 10 - Attività culturali, sportive e ricreative e libertà di associazione e di riunione",
+    "target_title": "TITOLO I - Norme generali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 10, comma 2, dello statuto",
+        "article_number": "10",
+        "paragraph_number": "2",
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.031,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:58",
+    "source_document": "regolamento",
+    "source_number": "58",
+    "source_header": "Articolo 58 - Attività culturali, sociali e ricreative",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:10",
+    "target_document": "statuto",
+    "target_number": "10",
+    "target_header": "Art. 10 - Attività culturali, sportive e ricreative e libertà di associazione e di riunione",
+    "target_title": "TITOLO I - Norme generali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 10 dello statuto",
+        "article_number": "10",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.031,
+        "header_score": 0.4,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:59",
+    "source_document": "regolamento",
+    "source_number": "59",
+    "source_header": "Art. 59 - Norme transitorie e finali",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:14",
+    "target_document": "statuto",
+    "target_number": "14",
+    "target_header": "Art. 14 - Regolamento generale d'Ateneo",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 14\ndello statuto",
+        "article_number": "14",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:6",
+    "source_document": "regolamento",
+    "source_number": "6",
+    "source_header": "Articolo 6 - Consulta d'Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:27",
+    "target_document": "statuto",
+    "target_number": "27",
+    "target_header": "Art. 27 - Consiglio di amministrazione",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 27 dello\nstatuto",
+        "article_number": "27",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:6",
+    "source_document": "regolamento",
+    "source_number": "6",
+    "source_header": "Articolo 6 - Consulta d'Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:31",
+    "target_document": "statuto",
+    "target_number": "31",
+    "target_header": "Art. 31 - Consulta d’Ateneo",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 31 dello statuto",
+        "article_number": "31",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:7",
+    "source_document": "regolamento",
+    "source_number": "7",
+    "source_header": "Articolo 7 - Comitato etico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:32",
+    "target_document": "statuto",
+    "target_number": "32",
+    "target_header": "Art. 32 - Comitato etico",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 32 dello statuto",
+        "article_number": "32",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:8",
+    "source_document": "regolamento",
+    "source_number": "8",
+    "source_header": "Articolo 8 - Collegio di disciplina",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:11",
+    "target_document": "statuto",
+    "target_number": "11",
+    "target_header": "Art. 11 - Principi di comportamento e Codice etico",
+    "target_title": "TITOLO I - Norme generali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 11\ndello statuto",
+        "article_number": "11",
+        "paragraph_number": null,
+        "source_paragraph": "14"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.031,
+        "header_score": 0.167,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:8",
+    "source_document": "regolamento",
+    "source_number": "8",
+    "source_header": "Articolo 8 - Collegio di disciplina",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:33",
+    "target_document": "statuto",
+    "target_number": "33",
+    "target_header": "Art. 33 - Collegio di disciplina",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 33 dello statuto",
+        "article_number": "33",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "collegio_disciplina"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:9",
+    "source_document": "regolamento",
+    "source_number": "9",
+    "source_header": "Articolo 9 - Garante degli studenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:35",
+    "target_document": "statuto",
+    "target_number": "35",
+    "target_header": "Art. 35 - Garante degli studenti e dei dottorandi",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "articolo 35 dello statuto",
+        "article_number": "35",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 0.4,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:9",
+    "source_document": "regolamento",
+    "source_number": "9",
+    "source_header": "Articolo 9 - Garante degli studenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:66",
+    "target_document": "statuto",
+    "target_number": "66",
+    "target_header": "Art. 66 - Indennità",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 66, punto 2,\ndello statuto",
+        "article_number": "66",
+        "paragraph_number": null,
+        "source_paragraph": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:17",
+    "source_document": "regolamento",
+    "source_number": "17",
+    "source_header": "Articolo 17 - Dottorato di ricerca",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:48",
+    "target_document": "statuto",
+    "target_number": "48",
+    "target_header": "Art. 48 - Centri interdipartimentali di ricerca",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:17",
+    "source_document": "regolamento",
+    "source_number": "17",
+    "source_header": "Articolo 17 - Dottorato di ricerca",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:51",
+    "target_document": "statuto",
+    "target_number": "51",
+    "target_header": "Art. 51 - Centri di ricerca convenzionati",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:19",
+    "source_document": "regolamento",
+    "source_number": "19",
+    "source_header": "Articolo 19 - Centri interdipartimentali di ricerca",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:41",
+    "target_document": "statuto",
+    "target_number": "41",
+    "target_header": "Art. 41 - Dottorato di ricerca",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "scuole_dottorato"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:21",
+    "source_document": "regolamento",
+    "source_number": "21",
+    "source_header": "Articolo 21 - Centri di servizio",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:50",
+    "target_document": "statuto",
+    "target_number": "50",
+    "target_header": "Art. 50 - Centri di servizio",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:22",
+    "source_document": "regolamento",
+    "source_number": "22",
+    "source_header": "Articolo 22 - Centri di ricerca convenzionati",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:41",
+    "target_document": "statuto",
+    "target_number": "41",
+    "target_header": "Art. 41 - Dottorato di ricerca",
+    "target_title": "TITOLO IV - Strutture e attività didattiche e scientifiche",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "scuole_dottorato"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.061,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:3",
+    "source_document": "regolamento",
+    "source_number": "3",
+    "source_header": "Articolo 3 - Senato accademico",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:67",
+    "target_document": "statuto",
+    "target_number": "67",
+    "target_header": "Art. 67 - Calendario accademico",
+    "target_title": "TITOLO VII - Disposizioni finali",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.032,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:46",
+    "source_document": "regolamento",
+    "source_number": "46",
+    "source_header": "Articolo 46 - Accesso ai ruoli del personale tecnico e amministrativo e alla dirigenza",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:60",
+    "target_document": "statuto",
+    "target_number": "60",
+    "target_header": "Art. 60 - Organico del personale tecnico e amministrativo",
+    "target_title": "TITOLO VI - Organizzazione amministrativa e del personale",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.029,
+        "header_score": 0.556,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:6",
+    "source_document": "regolamento",
+    "source_number": "6",
+    "source_header": "Articolo 6 - Consulta d'Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:14",
+    "target_document": "statuto",
+    "target_number": "14",
+    "target_header": "Art. 14 - Regolamento generale d'Ateneo",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:6",
+    "source_document": "regolamento",
+    "source_number": "6",
+    "source_header": "Articolo 6 - Consulta d'Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:16",
+    "target_document": "statuto",
+    "target_number": "16",
+    "target_header": "Art. 16 - Regolamento didattico d'Ateneo",
+    "target_title": "TITOLO II - Fonti normative",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.067,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:6",
+    "source_document": "regolamento",
+    "source_number": "6",
+    "source_header": "Articolo 6 - Consulta d'Ateneo",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:54",
+    "target_document": "statuto",
+    "target_number": "54",
+    "target_header": "Art. 54 - Sistema bibliotecario d'Ateneo",
+    "target_title": "TITOLO V - Centri e strutture di servizio",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "sistema_bibliotecario"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.091,
+        "header_score": 0.667,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:9",
+    "source_document": "regolamento",
+    "source_number": "9",
+    "source_header": "Articolo 9 - Garante degli studenti",
+    "source_title": "Titolo II, “Fonti normative”, dello Statuto. Esso contiene altresì$ le ulteriori - disposizioni che disciplinano l’assetto funzionale dell’Ateneo, ivi compresi i - criteri ai quali informare i regolamenti di competenza di singoli organi e - strutture.",
+    "source_chapter": "",
+    "target_article_id": "statuto:30",
+    "target_document": "statuto",
+    "target_number": "30",
+    "target_header": "Art. 30 - Conferenza degli studenti",
+    "target_title": "TITOLO III - Struttura di governo e organi",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.094,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  }
+]

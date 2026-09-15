@@ -1,0 +1,936 @@
+[
+  {
+    "source_article_id": "regolamento:1",
+    "source_document": "regolamento",
+    "source_number": "1",
+    "source_header": "Art. 1 – Elezione",
+    "source_title": "Titolo I – Rettore",
+    "source_chapter": "",
+    "target_article_id": "statuto:10",
+    "target_document": "statuto",
+    "target_number": "10",
+    "target_header": "Art. 10 - Rettore",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 10 comma 7 dello statuto",
+        "article_number": "10",
+        "paragraph_number": "7",
+        "source_paragraph": "7"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:10",
+    "source_document": "regolamento",
+    "source_number": "10",
+    "source_header": "Art. 10 – Componenti",
+    "source_title": "Titolo III - Modalità di designazione del Consiglio di Amministrazione",
+    "source_chapter": "",
+    "target_article_id": "statuto:12",
+    "target_document": "statuto",
+    "target_number": "12",
+    "target_header": "Art. 12 - Consiglio di Amministrazione",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 12 dello statuto",
+        "article_number": "12",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_amministrazione"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.125,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:11",
+    "source_document": "regolamento",
+    "source_number": "11",
+    "source_header": "Art. 11 – Dipartimenti",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:22",
+    "target_document": "statuto",
+    "target_number": "22",
+    "target_header": "Art. 22 - Dipartimenti",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 22 dello statuto",
+        "article_number": "22",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "dipartimento"
+        ],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "dipartimento"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:11",
+    "source_document": "regolamento",
+    "source_number": "11",
+    "source_header": "Art. 11 – Dipartimenti",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:24",
+    "target_document": "statuto",
+    "target_number": "24",
+    "target_header": "Art. 24 - Organizzazione della didattica",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 24 dello statuto",
+        "article_number": "24",
+        "paragraph_number": null,
+        "source_paragraph": "4"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:12",
+    "source_document": "regolamento",
+    "source_number": "12",
+    "source_header": "Art. 12 – Coordinamento ed organizzazione dell’attività didattica e formativa",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:11",
+    "target_document": "statuto",
+    "target_number": "11",
+    "target_header": "Art. 11 - Senato Accademico",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 11 dello statuto",
+        "article_number": "11",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:12",
+    "source_document": "regolamento",
+    "source_number": "12",
+    "source_header": "Art. 12 – Coordinamento ed organizzazione dell’attività didattica e formativa",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:23",
+    "target_document": "statuto",
+    "target_number": "23",
+    "target_header": "Art. 23 - Coordinamento dell’attività didattica e formativa",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 23 dello statuto",
+        "article_number": "23",
+        "paragraph_number": null,
+        "source_paragraph": "10"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 0.714,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:12",
+    "source_document": "regolamento",
+    "source_number": "12",
+    "source_header": "Art. 12 – Coordinamento ed organizzazione dell’attività didattica e formativa",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:24",
+    "target_document": "statuto",
+    "target_number": "24",
+    "target_header": "Art. 24 - Organizzazione della didattica",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 24, comma 1 dello statuto",
+        "article_number": "24",
+        "paragraph_number": "1",
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [
+          "organizzazione"
+        ],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 0.125,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Art. 13 – Comitato Paritetico per la Didattica",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:18",
+    "target_document": "statuto",
+    "target_number": "18",
+    "target_header": "Art. 18 - Garante degli studenti",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 18 dello\nstatuto",
+        "article_number": "18",
+        "paragraph_number": null,
+        "source_paragraph": "8"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:13",
+    "source_document": "regolamento",
+    "source_number": "13",
+    "source_header": "Art. 13 – Comitato Paritetico per la Didattica",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:25",
+    "target_document": "statuto",
+    "target_number": "25",
+    "target_header": "Art. 25 - Comitato Paritetico per la Didattica",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 25 dello statuto",
+        "article_number": "25",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:14",
+    "source_document": "regolamento",
+    "source_number": "14",
+    "source_header": "Art. 14 – Scuola di Dottorato",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:26",
+    "target_document": "statuto",
+    "target_number": "26",
+    "target_header": "Art. 26 - Scuola di Dottorato",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 26 dello statuto",
+        "article_number": "26",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "scuole_dottorato"
+        ],
+        "regulation_subjects": [
+          "scuole_dottorato"
+        ],
+        "statute_subjects": [
+          "scuole_dottorato"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:15",
+    "source_document": "regolamento",
+    "source_number": "15",
+    "source_header": "Art. 15 – Scuola di Master e Formazione Permanente",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:27",
+    "target_document": "statuto",
+    "target_number": "27",
+    "target_header": "Art. 27- Scuola di Master e Formazione Permanente",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 27 dello statuto",
+        "article_number": "27",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:16",
+    "source_document": "regolamento",
+    "source_number": "16",
+    "source_header": "Art. 16 – Comitato di Ateneo per la Ricerca, Trasferimento tecnologico e Servizi al - territorio",
+    "source_title": "Titolo IV - Articolazione interna per la ricerca e la didattica",
+    "source_chapter": "",
+    "target_article_id": "statuto:28",
+    "target_document": "statuto",
+    "target_number": "28",
+    "target_header": "Art. 28 - Comitato di Ateneo per la Ricerca, - Trasferimento Tecnologico e Servizi al Territorio",
+    "target_title": "Titolo III - Articolazione interna",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 28 dello statuto",
+        "article_number": "28",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.286,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:2",
+    "source_document": "regolamento",
+    "source_number": "2",
+    "source_header": "Art. 2 – Deleghe attribuite dal Rettore",
+    "source_title": "Titolo I – Rettore",
+    "source_chapter": "",
+    "target_article_id": "statuto:10",
+    "target_document": "statuto",
+    "target_number": "10",
+    "target_header": "Art. 10 - Rettore",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art.10 comma 2 e comma 3, lettere l) e m) dello statuto",
+        "article_number": "10",
+        "paragraph_number": "2",
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [
+        "same_main_subject"
+      ],
+      "subjects": {
+        "matched": true,
+        "common_subjects": [
+          "rettore"
+        ],
+        "regulation_subjects": [
+          "rettore"
+        ],
+        "statute_subjects": [
+          "rettore"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:22",
+    "source_document": "regolamento",
+    "source_number": "22",
+    "source_header": "Art. 22 – Convocazione",
+    "source_title": "Titolo VI - Norme generali sul funzionamento degli Organi Collegiali",
+    "source_chapter": "",
+    "target_article_id": "statuto:11",
+    "target_document": "statuto",
+    "target_number": "11",
+    "target_header": "Art. 11 - Senato Accademico",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 11 comma 15 dello statuto",
+        "article_number": "11",
+        "paragraph_number": "15",
+        "source_paragraph": "3"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.1,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:30",
+    "source_document": "regolamento",
+    "source_number": "30",
+    "source_header": "Art. 30 – Partecipazione in telepresenza",
+    "source_title": "Titolo VI - Norme generali sul funzionamento degli Organi Collegiali",
+    "source_chapter": "",
+    "target_article_id": "statuto:11",
+    "target_document": "statuto",
+    "target_number": "11",
+    "target_header": "Art. 11 - Senato Accademico",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 11 comma 15 dello\nstatuto",
+        "article_number": "11",
+        "paragraph_number": "15",
+        "source_paragraph": "2"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.1,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:34",
+    "source_document": "regolamento",
+    "source_number": "34",
+    "source_header": "Art. 34 – Rappresentanze degli studenti",
+    "source_title": "Titolo VI - Norme generali sul funzionamento degli Organi Collegiali",
+    "source_chapter": "",
+    "target_article_id": "statuto:38",
+    "target_document": "statuto",
+    "target_number": "38",
+    "target_header": "Art. 38 - Elezione delle rappresentanze studentesche",
+    "target_title": "Titolo V - Norme comuni",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 38 dello statuto",
+        "article_number": "38",
+        "paragraph_number": null,
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.1,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:35",
+    "source_document": "regolamento",
+    "source_number": "35",
+    "source_header": "Art. 35 – Attività formative autogestite",
+    "source_title": "Titolo VII - Diritto allo studio",
+    "source_chapter": "",
+    "target_article_id": "statuto:5",
+    "target_document": "statuto",
+    "target_number": "5",
+    "target_header": "Art. 5 - Diritto allo studio",
+    "target_title": "Titolo V del presente Statuto.",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art. 5 comma 6 dello statuto",
+        "article_number": "5",
+        "paragraph_number": "6",
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:4",
+    "source_document": "regolamento",
+    "source_number": "4",
+    "source_header": "Art. 4 – Rappresentanze di Dipartimento",
+    "source_title": "Titolo II - Modalità elettive dei membri del Senato Accademico",
+    "source_chapter": "",
+    "target_article_id": "statuto:11",
+    "target_document": "statuto",
+    "target_number": "11",
+    "target_header": "Art. 11 - Senato Accademico",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "explicit_reference",
+    "confidence": 1.0,
+    "evidence": {
+      "matched_patterns": [
+        "explicit_reference"
+      ],
+      "explicit_reference": {
+        "surface": "art.11, comma 4, lettere da\nb) a e), dello statuto",
+        "article_number": "11",
+        "paragraph_number": "4",
+        "source_paragraph": "1"
+      },
+      "supporting_patterns": [],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [
+          "dipartimento"
+        ],
+        "statute_subjects": [
+          "senato_accademico"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.0,
+        "header_score": 0.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:34",
+    "source_document": "regolamento",
+    "source_number": "34",
+    "source_header": "Art. 34 – Rappresentanze degli studenti",
+    "source_title": "Titolo VI - Norme generali sul funzionamento degli Organi Collegiali",
+    "source_chapter": "",
+    "target_article_id": "statuto:18",
+    "target_document": "statuto",
+    "target_number": "18",
+    "target_header": "Art. 18 - Garante degli studenti",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": []
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.1,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  },
+  {
+    "source_article_id": "regolamento:34",
+    "source_document": "regolamento",
+    "source_number": "34",
+    "source_header": "Art. 34 – Rappresentanze degli studenti",
+    "source_title": "Titolo VI - Norme generali sul funzionamento degli Organi Collegiali",
+    "source_chapter": "",
+    "target_article_id": "statuto:20",
+    "target_document": "statuto",
+    "target_number": "20",
+    "target_header": "Art. 20 – Consiglio degli studenti",
+    "target_title": "Titolo II – Organi di Ateneo",
+    "target_chapter": "",
+    "relation_type": "candidate_relation",
+    "confidence": 0.15,
+    "evidence": {
+      "matched_patterns": [
+        "header_similarity"
+      ],
+      "subjects": {
+        "matched": false,
+        "common_subjects": [],
+        "regulation_subjects": [],
+        "statute_subjects": [
+          "consiglio_studenti"
+        ]
+      },
+      "functions": {
+        "matched": false,
+        "functions": [],
+        "regulation_functions": [],
+        "statute_functions": []
+      },
+      "structural": {
+        "title_score": 0.1,
+        "header_score": 1.0,
+        "chapter_header_score": 0.0
+      }
+    }
+  }
+]

@@ -101,7 +101,7 @@ def remove_duplicates(articles):
     return list(seen.values())
 
 def process_documents():
-    university = input("inserisci il nome delle università disponibili (unical, unipi, unimi, polito): ").strip()
+    university = input("Enter an available university (unical, unipi, unimi, polito): ").strip()
     paths = {
         "statuto":     ROOT / "data" / "raw" / f"statuto-{university}.pdf",
         "regolamento": ROOT / "data" / "raw" / f"regolamento-{university}.pdf",

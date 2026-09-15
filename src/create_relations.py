@@ -31,15 +31,6 @@ STRONG_SUBJECT_ALIASES = {
     "centro_residenziale": ["centro residenziale"],
 }
 
-
-#WEAK_SUBJECT_ALIASES = {
-    #"studenti": ["studenti", "studente"],
-    #"rappresentanze_studentesche": ["rappresentanze studentesche", "rappresentanza studentesca"],
-    #"personale_docente": ["personale docente", "docenti", "professori", "ricercatori"],
-    #"personale_tecnico_amministrativo": ["personale tecnico amministrativo", "personale tecnico-amministrativo", "personale amministrativo"],
-    #"centro": ["centro", "centri"],
-#}
-
 NORMATIVE_FUNCTIONS = {
     "elezione": ["elezione","elezioni","elettorale","voto","votazione","candidatura","candidature","elettorato attivo","elettorato passivo","scrutinio","quorum","ballottaggio"],
     "nomina": ["nomina","nominato","nominata","designazione","designazioni","designato","designata"],
@@ -56,7 +47,7 @@ NORMATIVE_FUNCTIONS = {
 }
 
 
-def export_merged_dataset_csv(relations, regulation_articles, statute_articles, output_filename="merged_dataset.csv"):
+def export_merged_dataset_csv(relations, regulation_articles, statute_articles, output_filename):
     output_path = ROOT / "data" / "processed" / output_filename
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -74,14 +65,18 @@ def export_merged_dataset_csv(relations, regulation_articles, statute_articles, 
                     content = p.get("text", "")
                     return node_id, re.sub(r"\s+", " ", content).strip()
 
+            print(f"Comma {specific_paragraph} does not exist for article {art.get("number")} in the statute document")
+            text = art.get("full_text", "")
+            return f"{article_id}:0", re.sub(r"\s+", " ", text).strip()
+
         text = art.get("full_text", "")
         return article_id, re.sub(r"\s+", " ", text).strip()
 
     with open(output_path, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f, delimiter=";", quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(["NODE_ID_A", "FRASE_A", "NODE_ID_B", "FRASE_B"])
+        writer.writerow(["PAIR_ID","NODE_ID_A","FRASE_A","NODE_ID_B","FRASE_B","RELATION_TYPE","CONFIDENCE"])
 
-        for rel in relations:
+        for pair_id, rel in enumerate(relations, start=1):
             node_a = rel["source_article_id"]
             node_b = rel["target_article_id"]
 
@@ -97,7 +92,7 @@ def export_merged_dataset_csv(relations, regulation_articles, statute_articles, 
             final_node_a, frase_a = get_node_and_text(node_a, comma_a)
             final_node_b, frase_b = get_node_and_text(node_b, comma_b)
 
-            writer.writerow([final_node_a, frase_a, final_node_b, frase_b])
+            writer.writerow([pair_id, final_node_a, frase_a, final_node_b, frase_b, rel["relation_type"], rel["confidence"]])
 
 def normalize_text(text):
     text = text.lower()
@@ -199,7 +194,6 @@ def explicit_reference_from_regulation_to_statute(reg_article, statute_articles)
     raw_text_lower = raw_text.lower()
 
     pattern = (
-        r""
         r"(?:art\.?|articolo)\s*"
         r"(\d+(?:\.\d+)?(?:\s*[-–]\s*[a-z]+)?)"
         r"(?:\s*,?\s*comma\s*(\d+(?:\.\d+)?(?:\s*[-–]\s*[a-z]+)?))?"
@@ -213,7 +207,6 @@ def explicit_reference_from_regulation_to_statute(reg_article, statute_articles)
         article_number = normalize_article_number(match.group(1))
         paragraph_number = normalize_article_number(match.group(2)) if match.group(2) else None
 
-        #potrei anche cancellarlo
         target = find_statute_article(statute_articles, article_number)
 
         if target:
@@ -225,6 +218,10 @@ def explicit_reference_from_regulation_to_statute(reg_article, statute_articles)
                 "surface": match.group(0).strip(), #la surface indica quale parte del testo ha generato la relazione
                 "source_paragraph": source_paragraph,
             })
+        else:
+            reg_num = reg_article.get("number")
+            print(f"Article {article_number} does not exist in the statute document but is cited in regulation article {reg_num}")
+
     return references
 
 '''
@@ -510,7 +507,7 @@ def deduplicate_relations(relations):
 
 
 def build_relations():
-    university = input("inserisci il nome delle università disponibili (unical, unipi, unimi, polito): ").strip()
+    university = input("Enter an available university (unical, unipi, unimi, polito): ").strip()
     input_path = ROOT / "data" / "processed" / f"processed_articles_{university}.json"
     output_path = ROOT / "data" / "processed" / f"candidate_relations_{university}.json"
 
@@ -552,7 +549,7 @@ def build_relations():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(relations, f, ensure_ascii=False, indent=2)
 
-    export_merged_dataset_csv(relations, regulation_articles, statute_articles, "merged_dataset.csv")
+    export_merged_dataset_csv(relations, regulation_articles, statute_articles, f"merged_dataset_{university}.csv")
 
 if __name__ == "__main__":
     build_relations()
